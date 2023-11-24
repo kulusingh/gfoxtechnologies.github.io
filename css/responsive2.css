@@ -1,0 +1,6103 @@
+@media (min-width:4200px) and (max-width:10000px) {
+    .interactive.paid_marketing.smm-section1.section .paid_market_Image {
+        max-width: 1100px;
+        bottom: -66px;
+        right: -424px
+    }
+
+    .appBanner.section .container {
+        position: relative
+    }
+
+    .interactive.paid_marketing.smm-section1.section .container {
+        position: relative
+    }
+
+    .banner.bg_blue.section.enterprise-bg .container {
+        position: relative
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section {
+        padding-top: 180px
+    }
+
+    .banner.bg_blue.section.enterprise-bg .enterpriesesBanner {
+        position: absolute;
+        right: -350px;
+        max-width: 890px;
+        bottom: -150px
+    }
+
+    .corporate_video .slider_right,
+    .interactive_presentation .slider_right,
+    .power_presentation .slider_right {
+        max-width: 61.2%
+    }
+
+    .digital_marketing.section .container {
+        position: relative
+    }
+
+    .seo_right_text {
+        position: absolute;
+        right: 4%;
+        width: 414px;
+        color: #fff;
+        top: 120%;
+        max-width: 1200px;
+        opacity: .95;
+        font-weight: 300
+    }
+
+    .seo_img {
+        position: absolute;
+        top: 311px;
+        left: -180px
+    }
+
+    .interactive.branding_Solutions.section .container {
+        position: relative
+    }
+
+    .interactive.branding_Solutions.section .branding_img img {
+        max-width: 73%;
+        float: right
+    }
+
+    .interactive.branding_Solutions.section .branding_img {
+        position: absolute;
+        right: -203px;
+        bottom: -89px
+    }
+
+    li.nav-item.menu-hover:hover .menu-pos .col-md-9 {
+        -ms-flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    li.nav-item.menu-hover:hover .menu-pos .col-md-3 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .video_inside {
+        max-width: 1700px
+    }
+
+    .bottom_menu {
+        display: inline-block
+    }
+}
+
+@media (min-width:1920px) and (max-width:4000px) {
+    .video_inside {
+        max-width: 1700px
+    }
+
+    .bottom_menu {
+        display: inline-block
+    }
+
+    .bottom_menu li {
+        display: inline-block;
+        margin-right: 44px;
+        margin-bottom: 18px;
+        margin-top: 27px
+    }
+
+    .bottom_menu li a {
+        font-size: 15px
+    }
+
+    .slider.slick-initialized.slick-slider {
+        padding: 70px 0
+    }
+
+    .process_box {
+        padding-top: 60px
+    }
+
+    .process_box.boxTwo {
+        padding: 34px 0 0 97px
+    }
+
+    .red_box.contant_black_box {
+        background: #445ddb;
+        padding: 70px 363px 70px 60px
+    }
+
+    .form-slide .request-quote h4 {
+        margin-bottom: 45px
+    }
+
+    div#collapsibleNavbar .menu_service p {
+        color: #fff;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 24px;
+        margin-bottom: 43px;
+        padding-right: 50px
+    }
+
+    .home_page div#collapsibleNavbar .reash-us p a {
+        padding: 0;
+        margin: 0;
+        font-family: 'Roboto Slab', serif;
+        font-weight: 400;
+        font-size: 18px;
+        text-transform: inherit;
+        letter-spacing: inherit
+    }
+
+    .reash-us {
+        position: absolute;
+        bottom: 60px;
+        right: 72px
+    }
+
+    .reash-us p.e_mail {
+        margin-top: 20px;
+        margin-bottom: 30px
+    }
+
+    .reash-us {
+        position: absolute;
+        bottom: 90px;
+        right: 62px;
+        z-index: 99
+    }
+
+    li.nav-item.menu-hover:hover .menu-pos .col-md-9 {
+        -ms-flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    li.nav-item.menu-hover:hover .menu-pos .col-md-3 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .img-new-1 {
+        display: inline-block;
+        width: 39%;
+        vertical-align: top;
+        margin-top: -300px
+    }
+
+    .img-new-2 {
+        display: inline-block;
+        width: 60%;
+        margin-top: -344px
+    }
+
+    .branding-stratgey {
+        margin-bottom: 140px
+    }
+
+    .new-branding-img {
+        position: absolute;
+        top: -265px;
+        width: 652px
+    }
+
+    .presentation_text p {
+        font-size: 18px;
+        color: #1a1a1a;
+        max-width: 1100px;
+        margin-top: 20px;
+        line-height: 30px
+    }
+
+    .seo_projects_box p {
+        font-weight: 700;
+        color: #000;
+        margin: 0;
+        font-size: 24px;
+        line-height: 30px
+    }
+
+    .process_box.boxThree {
+        margin-left: 89px;
+        position: relative;
+        margin-top: 22px;
+        border-top: 3px solid #c9d7ee
+    }
+
+    .process_box.boxTwo .img_box {
+        padding-bottom: 102px;
+        position: relative;
+        border-bottom: 3px solid #c9d7ee;
+        margin-bottom: 50px
+    }
+
+    .seo-panel2 .process_box p {
+        font-size: 16px;
+        line-height: 30px;
+        color: #4c4c4c
+    }
+
+    .video_page .making_brands p {
+        font-size: 18px;
+        letter-spacing: 0
+    }
+
+    .video_img {
+        position: absolute;
+        top: -658px;
+        right: -290px
+    }
+
+    .video_img img {
+        max-width: 1700px
+    }
+
+    .corporate.section.new-interactive2 .corporate_text p {
+        font-size: 18px;
+        color: #000;
+        line-height: 30px;
+        font-weight: 500
+    }
+
+    .interactive.new-interactive.section .col-md-6.making_img img {
+        max-width: 944px;
+        margin-top: 0
+    }
+
+    .corporate.section.new-interactive2 .corporate_text {
+        max-width: 845px
+    }
+
+    .interactive.new-interactive.section h2 {
+        font-size: 55px;
+        line-height: 66px
+    }
+
+    .interactive.branding_Solutions.section .col-md-6.branding_text {
+        padding-right: 75px
+    }
+
+    .interactive.branding_Solutions.section .col-md-6.branding_text p {
+        max-width: 84%;
+        font-size: 18px;
+        line-height: 30px
+    }
+
+    .interactive.branding_Solutions.section .branding_img {
+        position: absolute;
+        right: 200px;
+        bottom: -152px
+    }
+
+    .interactive.branding_Solutions.section .branding_img img {
+        max-width: 88%;
+        float: right
+    }
+
+    .technology_text p {
+        font-size: 16px;
+        line-height: 28px
+    }
+
+    .technology_text {
+        padding-right: 120px;
+        background: #fff;
+        padding-bottom: 70px
+    }
+
+    .company_banner {
+        padding-bottom: 260px
+    }
+
+    .tab-content .yellow_box p {
+        font-size: 16px;
+        line-height: 30px;
+        color: #4c4c4c;
+        font-weight: 500;
+        margin-bottom: 25px
+    }
+
+    .tab-content .yellow_box ul li {
+        line-height: 30px;
+        border-bottom: 1px solid rgb(255 255 255 / 38%);
+        padding: 8px 0;
+        font-size: 18px;
+        color: #4d4d4d
+    }
+
+    .tab-content .yellow_box.redB.blueB p {
+        color: #fff;
+        font-size: 16px;
+        line-height: 30px
+    }
+
+    .icon1-bg {
+        width: 44%;
+        position: absolute;
+        z-index: 0;
+        left: -349px;
+        top: 41px;
+        opacity: .8
+    }
+
+    ul.nav.nav-pills.navtop p {
+        color: #191919;
+        font-weight: 700;
+        font-size: 21px
+    }
+
+    .agency_box li h3 {
+        display: block;
+        min-height: 40px;
+        font-size: 72px;
+        color: #2b4456 !important;
+        font-weight: 700
+    }
+
+    .agency_box li p {
+        padding: 0 40px 0 0;
+        float: left;
+        width: 100%;
+        font-size: 21px;
+        color: #333 !important;
+        font-weight: 600
+    }
+
+    .tab_part.section {
+        padding-bottom: 120px
+    }
+
+    .tab_para p {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 45px;
+        color: #1a1a1a;
+        line-height: 36px;
+        font-weight: 500
+    }
+
+    .tab_para {
+        max-width: 100%;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 60px;
+        padding: 0 70px
+    }
+
+    .banner.bg_blue.section.e-com-top .eCommerce_banner {
+        position: absolute;
+        right: -85px;
+        top: 5%;
+        max-width: 1102px
+    }
+
+    .banner.bg_blue.section.e-com-top .banner-content-ecommerce {
+        padding-right: 70px
+    }
+
+    .banner.bg_blue.section.e-com-top .banner-content-ecommerce p {
+        max-width: 100%;
+        line-height: 30px;
+        font-size: 18px
+    }
+
+    .interactive.paid_marketing.sem-panel1.section .paid_market_Image {
+        max-width: 990px
+    }
+
+    .green-bg-smm {
+        background: #ebfafe;
+        padding: 50px;
+        height: 100%
+    }
+
+    .interactive.paid_marketing.smm-section1.section p {
+        padding-right: 0;
+        line-height: 30px;
+        font-size: 18px
+    }
+
+    .interactive.paid_marketing.smm-section1.section h2 {
+        font-size: 55px
+    }
+
+    .interactive.paid_marketing.smm-section1.section .col-md-6.making_brands {
+        max-width: 100%;
+        padding-right: 0
+    }
+
+    .new_media_Image {
+        position: absolute;
+        right: -150px;
+        bottom: -150px;
+        text-align: right
+    }
+
+    .new_media_Image img {
+        max-width: 975px
+    }
+
+    .interactive.video_serivces.section .col-md-5.making_brands {
+        padding-bottom: 30px
+    }
+
+    .interactive.video_serivces.section .making_brands p {
+        max-width: 100%;
+        padding-right: 158px;
+        line-height: 36px
+    }
+
+    .corporate_video .presentation_text p {
+        line-height: 36px
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .enterprieses_design_text {
+        max-width: 100%;
+        padding-right: 70px
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .custom_web_text h4 {
+        color: #333;
+        font-size: 22px;
+        margin-top: 30px;
+        font-weight: 700;
+        font-family: Montserrat, sans-serif
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section {
+        padding-top: 170px
+    }
+
+    .banner-content-ecommerce.enterprise-app {
+        padding-right: 80px
+    }
+
+    .banner-content-ecommerce.enterprise-app h1 {
+        margin-bottom: 80px
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .enterprieses_design_text p {
+        font-size: 24px;
+        color: #000;
+        margin-bottom: 50px;
+        line-height: 36px;
+        font-weight: 500
+    }
+
+    .main_mobileApp p {
+        color: #fff;
+        line-height: 42px;
+        font-size: 24px;
+        margin-top: 100px;
+        padding: 0 1px 0 30px;
+        font-weight: 300
+    }
+
+    .main_mobileApp.section {
+        margin-top: -140px
+    }
+
+    .main_mobileApp {
+        background: #2b4456;
+        padding-top: 260px;
+        padding-bottom: 0
+    }
+
+    .imgAppBanner img {
+        float: right
+    }
+
+    .app_text p {
+        color: #4c4c4c;
+        font-size: 16px;
+        padding-right: 40px;
+        line-height: 30px
+    }
+
+    .hybird_appdevelopment.section {
+        padding-bottom: 0;
+        padding-top: 90px
+    }
+
+    .experience_details p {
+        font-size: 17px;
+        color: #4d4d4d
+    }
+
+    .wht_box {
+        padding: 80px 20px 60px 17px;
+        background: #fff;
+        margin-bottom: 15px;
+        min-height: 320px;
+        text-align: center
+    }
+
+    .experience_details {
+        max-width: 100%;
+        margin: 70px auto
+    }
+
+    .seo_right_text p {
+        margin-bottom: 30px;
+        font-size: 18px;
+        line-height: 30px
+    }
+
+    .making_brands p {
+        line-height: 30px;
+        font-weight: 300;
+        font-size: 18px
+    }
+
+    .project_box {
+        padding-bottom: 25px;
+        border-bottom: 1px solid #a0a0a0;
+        margin-right: 65px;
+        padding-top: 190px
+    }
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1280px
+    }
+
+    .right_content p {
+        color: #fff;
+        font-family: Montserrat, sans-serif;
+        font-size: 18px;
+        line-height: 30px
+    }
+
+    .right_content {
+        position: absolute;
+        right: 7%;
+        max-width: 360px;
+        top: 116%
+    }
+
+    img.web-banner-desktop {
+        position: relative;
+        left: -170px;
+        max-width: 1420px
+    }
+
+    .making_img {
+        position: relative;
+        top: 24px
+    }
+
+    .interactive.paid_marketing.smm-section1.section .paid_market_Image {
+        max-width: 1103px;
+        bottom: -74px;
+        right: 180px
+    }
+
+    .seo_right_text {
+        right: 36%;
+        width: 465px;
+        top: 51%
+    }
+
+    .mainslider {
+        float: none;
+        width: 100%;
+        margin: auto
+    }
+
+    .desktop_menu .container-fluid {
+        max-width: 100%;
+        margin: auto
+    }
+
+    .seo_img img {
+        max-width: 1355px
+    }
+
+    .seo_img {
+        position: absolute;
+        bottom: -182px;
+        left: 0
+    }
+
+    .digital_marketing.section {
+        height: 890px;
+        padding: 40px 0;
+        margin-top: 30px
+    }
+
+    .slide2 .slider_right {
+        float: none;
+        overflow: hidden;
+        max-width: 1920px;
+        margin: auto
+    }
+
+    .marketing_solution.section {
+        padding-top: 250px
+    }
+
+    .branding_img img {
+        max-width: 100%
+    }
+
+    .making_brands h2 {
+        font-size: 56px;
+        line-height: 1
+    }
+
+    .design_text p {
+        font-size: 23px;
+        line-height: 36px
+    }
+
+    .corporate_video .slider_right,
+    .interactive_presentation .slider_right,
+    .power_presentation .slider_right {
+        max-width: 74.2%
+    }
+
+    .start_project.section h2 {
+        font-size: 58px;
+        line-height: 1
+    }
+
+    .eCommerce_banner {
+        max-width: 53%;
+        top: 10px;
+        right: -50px
+    }
+
+    .aap_banner-content {
+        float: left;
+        width: 44%
+    }
+
+    .imgAppBanner {
+        right: 10%
+    }
+
+    .imgAppBanner img {
+        max-width: 44%;
+        float: right;
+        margin-right: 260px
+    }
+
+    .paid_market_Image {
+        max-width: 700px
+    }
+
+    .branding_img {
+        right: 10%
+    }
+
+    .bottom_para p {
+        font-size: 24px;
+        font-weight: 300;
+        color: #191919;
+        line-height: 36px
+    }
+
+    .bottom_para {
+        width: 119%;
+        padding-right: 30px
+    }
+
+    .company_img img {
+        width: 1328px
+    }
+
+    .work_page .header_section:before {
+        top: 128px
+    }
+
+    .technology_all_logo:after {
+        width: 15%
+    }
+
+    .design_text {
+        max-width: 100%
+    }
+
+    .marketing_text h1 {
+        font-size: 48px
+    }
+
+    .marketing_box p {
+        font-weight: 700;
+        font-size: 26px
+    }
+
+    .marketing_solution h2 {
+        font-size: 52px;
+        font-weight: 700
+    }
+
+    .enterprises_page .bg_blue.section .banner-content-ecommerce h2 {
+        font-size: 48px
+    }
+
+    .enterprises_page .bg_blue.section .banner-content-ecommerce h1 {
+        font-size: 60px
+    }
+
+    .banner-content-ecommerce p {
+        font-size: 18px;
+        max-width: 100%;
+        line-height: 30px
+    }
+
+    .banner.bg_blue.section .enterpriesesBanner {
+        position: absolute;
+        right: 150px;
+        max-width: 1046px;
+        bottom: -93px
+    }
+
+    .banner-content-ecommerce h2 {
+        font-size: 48px
+    }
+
+    .banner-content-ecommerce h1 {
+        font-size: 60px
+    }
+
+    .presentation_text h2 {
+        font-size: 60px
+    }
+
+    .presentation_text {
+        max-width: 100% !important
+    }
+
+    .media_page p {
+        max-width: 100%;
+        font-size: 24px
+    }
+
+    .design_text h2 {
+        font-size: 60px;
+        font-weight: 700
+    }
+}
+
+@media (min-width:2001px) and (max-width:2200px) {
+
+    .corporate_video .slider_right,
+    .interactive_presentation .slider_right,
+    .power_presentation .slider_right {
+        max-width: 76.5%
+    }
+
+    .video_inside {
+        max-width: 1090px
+    }
+}
+
+@media (min-width:1920px) and (max-width:2000px) {
+    .video_img {
+        position: absolute;
+        top: -658px;
+        right: -330px
+    }
+
+    .interactive.branding_Solutions.section .branding_img {
+        position: absolute;
+        right: 65px;
+        bottom: -136px
+    }
+
+    .interactive.branding_Solutions.section .branding_img img {
+        max-width: 86%;
+        float: right
+    }
+
+    .banner.bg_blue.section.e-com-top .banner-content-ecommerce p {
+        max-width: 100%;
+        line-height: 30px;
+        font-size: 18px
+    }
+
+    .interactive.paid_marketing.section .paid_market_Image {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        max-width: 670px
+    }
+
+    .corporate_video .slider_right,
+    .interactive_presentation .slider_right,
+    .power_presentation .slider_right {
+        float: right;
+        max-width: 82.5%;
+        margin-top: 50px;
+        width: 100%
+    }
+
+    .video_inside {
+        max-width: 1700px
+    }
+
+    .seo_right_text {
+        right: 15%
+    }
+
+    .imgAppBanner img {
+        max-width: 47%;
+        float: right;
+        margin-right: 73px
+    }
+
+    .banner.bg_blue.section .enterpriesesBanner {
+        position: absolute;
+        right: 50px;
+        max-width: 1005px;
+        bottom: -93px
+    }
+
+    .interactive.paid_marketing.smm-section1.section .paid_market_Image {
+        max-width: 58%;
+        bottom: -74px;
+        right: 0
+    }
+}
+
+@media (min-width:1300px) and (max-width:1800px) {
+    .video_inside {
+        max-width: 1122px
+    }
+
+    .seo_right_text {
+        right: 21%
+    }
+
+    .imgAppBanner img {
+        max-width: 47%;
+        float: right;
+        margin-right: 73px
+    }
+
+    .banner.bg_blue.section.e-com-top .banner-content-ecommerce p {
+        max-width: 100%;
+        line-height: 30px;
+        font-size: 18px
+    }
+}
+
+@media (min-width:1201px) and (max-width:1500px) {
+    .work_page .impression .owl-carousel .owl-nav.disabled {
+        display: block;
+        position: absolute;
+        bottom: 8px;
+        right: 70px;
+        top: inherit;
+        z-index: 999;
+        left: inherit
+    }
+
+    .viws_box {
+        padding: 8px 0
+    }
+
+    
+
+    .experience_box {
+        position: absolute;
+        top: 66%;
+        left: 35%;
+        transform: translate(-50%, -50%);
+        padding: 50px;
+        bottom: inherit
+    }
+
+    .experience_box img {
+        max-width: 180px
+    }
+
+    .experience_box h6 {
+        margin: 10px 0;
+        font-size: 21px;
+        line-height: 30px
+    }
+
+    .heading1 {
+        left: 23%
+    }
+
+    .second_menu li {
+        margin-right: 26px
+    }
+
+    .second_menu li a {
+        font-size: 13px
+    }
+
+    .presentation_text p {
+        max-width: 100%
+    }
+
+    .video_inside {
+        transform: translate(-50%, -20%)
+    }
+
+    .banner.bg_blue .banner-content-ecommerce h1 {
+        color: #fff;
+        font-size: 50px;
+        line-height: 1;
+        margin-bottom: 40px;
+        max-width: 440px
+    }
+
+    .banner.bg_blue .banner-content-ecommerce p {
+        color: #fff;
+        max-width: 382px;
+        font-size: 14px;
+        line-height: 26px;
+        font-weight: 300
+    }
+
+    .seo_right_text {
+        position: absolute;
+        right: 4%
+    }
+}
+@media only screen and (max-width: 990px){
+   .viws_box {
+    padding: 18px 50px 0;
+}
+
+  }
+
+@media (min-width:992px) and (max-width:1200px) {
+    .heading1 {
+        left: 10%
+    }
+
+    .second_menu li {
+        margin-right: 8px
+    }
+
+    .second_menu li a {
+        font-size: 11px;
+        letter-spacing: 0
+    }
+
+    .new_media ul.nav.nav-fill.navtop:after,
+    .new_media ul.nav.nav-fill.navtop:before,
+    .technology_Works:after,
+    .technology_Works:before {
+        display: none
+    }
+
+    a.navbar-brand img {
+        max-width: 80px !important;
+        margin-top: 8px
+    }
+
+    .second_menu {
+        margin-top: 15px
+    }
+
+    .experience_box img {
+        max-width: 200px
+    }
+
+    .experience_box {
+        transform: translate(-50%, -50%);
+        max-width: 700px;
+        top: 70%;
+        bottom: inherit
+    }
+
+    .experience_box h6 {
+        margin: 0;
+        font-size: 22px;
+        line-height: 30px
+    }
+
+    div#menu1:before {
+        height: 480px;
+        width: 90%
+    }
+
+    p.development_services {
+        padding: 0 45px 0 0
+    }
+
+    .footer.section h2 {
+        font-size: 28px
+    }
+
+    nav.navbar.navbar-expand-md {
+        padding: 5px 40px
+    }
+
+    .full_image img {
+        min-height: 273px !important
+    }
+
+    .diary_box_left {
+        padding: 25px 50px 20px 30px
+    }
+
+    .business_help .diary_box_left {
+        padding: 25px
+    }
+
+    .col-md-6.business_help .full_image img {
+        min-height: 270px !important
+    }
+
+    li.nav-item {
+        margin: 0 2px
+    }
+
+    .appBanner {
+        margin-top: 85px
+    }
+
+    .work_page nav.navbar.navbar-expand-md {
+        padding: 10px 40px
+    }
+
+    .imgAppBanner {
+        margin-top: 0
+    }
+
+    .app_text {
+        min-height: 330px
+    }
+
+    ul.custom-navbar::before {
+        width: 30%;
+    }
+}
+
+@media (min-width:992px) and (max-width:1024px) {
+    .interactive.new-interactive.section {
+        margin-top: 20px
+    }
+
+    .marketing_solution h2 {
+        font-size: 40px
+    }
+
+    .banner.bg_blue.section {
+        margin-top: 20px
+    }
+
+    .digital_marketing.section {
+        margin-top: 20px
+    }
+
+    .interactive.branding_Solutions.section {
+        margin-top: 20px
+    }
+
+    .digital_experience.section h2 {
+        font-size: 45px
+    }
+
+    .branding_text h2 {
+        font-size: 40px;
+        color: #fff;
+        margin-top: 50px
+    }
+
+    .branding_img {
+        position: absolute;
+        right: 0;
+        bottom: -15px;
+        width: 68%
+    }
+
+    .interactive.branding_Solutions.section .branding_img img {
+        max-width: 100%
+    }
+
+    .marketing_text h1 {
+        color: #fff;
+        display: inline-block;
+        position: relative;
+        padding: 25px 0 35px;
+        font-size: 48px;
+        z-index: 1
+    }
+
+    .corporate_text {
+        max-width: 100%
+    }
+
+    .seo_page.section.seo-panel1 {
+        margin-top: 20px
+    }
+
+    .interactive.new-interactive.section .col-md-6.making_img img {
+        max-width: 100%;
+        margin-top: 0
+    }
+
+    .interactive.new-interactive.section h2 {
+        font-size: 38px;
+        line-height: 50px
+    }
+
+    .new_media_Image {
+        position: absolute;
+        right: -54px;
+        bottom: -93px;
+        text-align: right
+    }
+
+    .interactive.paid_marketing.sem-panel1.section {
+        margin-top: 20px
+    }
+
+    .banner.bg_blue.section.e-com-top p {
+        max-width: 406px;
+        margin-bottom: 25px;
+        line-height: 30px
+    }
+
+    .start_project.section h2 {
+        font-size: 40px;
+        line-height: 1
+    }
+
+    .testimonials_page h2 {
+        margin-top: 40px;
+        font-size: 40px
+    }
+
+    .technology h2 {
+        font-size: 45px
+    }
+
+    .work-slide-bg .owl-nav.disabled {
+        display: none !important
+    }
+
+    .news-content2 {
+        margin: 100px 0 66px;
+        width: 540px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 38px
+    }
+
+    .news-head h2 {
+        color: #2b4456;
+        font-size: 48px;
+        font-weight: 700;
+        padding-right: 0;
+        margin-bottom: 65px
+    }
+
+    .new-icon {
+        display: inline-block;
+        border: 1px solid #f7f7f7;
+        width: 185px;
+        vertical-align: top;
+        margin: 0 25px 40px 0
+    }
+
+    .technology_logo ul li:nth-child(12),
+    .technology_logo ul li:nth-child(16),
+    .technology_logo ul li:nth-child(4),
+    .technology_logo ul li:nth-child(8) {
+        border-right: 1px solid #ddd
+    }
+
+    .technology_logo ul li:nth-child(3n) {
+        border-right: 0px
+    }
+
+    .technology_logo ul li:nth-child(4) {
+        border-top: 1px solid #ddd
+    }
+
+    ul.agency_box.eLearning_box li {
+        padding: 0 27px;
+        margin: 0;
+        overflow: hidden
+    }
+
+    ul.agency_box {
+        padding: 60px 0 0 50px
+    }
+
+    ul.custom-navbar:before {
+        position: absolute;
+        top: 55%;
+        right: -10%;
+        background: #fff;
+        content: "";
+        width: 52%;
+        height: 1px
+    }
+
+    .new_media_Image img {
+        max-width: 100%
+    }
+
+    .making_brands h2 {
+        margin: 0 0 50px 0;
+        font-size: 48px;
+        line-height: 56px
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .custom_web_text h4 {
+        font-size: 18px
+    }
+
+    .interactive.paid_marketing.smm-section1.section .paid_market_Image {
+        max-width: 60%;
+        bottom: -18px;
+        right: 0
+    }
+
+    .interactive.paid_marketing.smm-section1.section {
+        margin-top: 20px
+    }
+
+    .interactive.paid_marketing.smm-section1.section h2 {
+        font-size: 37px;
+        line-height: 48px
+    }
+
+    .enterprieses_design_text p {
+        font-size: 20px;
+        color: #000;
+        margin: 50px 0
+    }
+
+    .banner.bg_blue.section .enterpriesesBanner {
+        position: absolute;
+        right: 40px;
+        max-width: 46%;
+        bottom: -19px
+    }
+
+    .appBanner {
+        margin-top: 20px
+    }
+
+    .main_mobileApp p {
+        color: #fff;
+        line-height: 36px;
+        font-size: 18px;
+        margin-top: 69px;
+        padding: 0 1px 0 30px;
+        font-weight: 300
+    }
+
+    .aap_banner-content h1 {
+        color: #fff;
+        font-size: 40px;
+        line-height: 1;
+        margin-bottom: 30px
+    }
+
+    .lead_base_boxes li {
+        width: 17.6%
+    }
+
+    .seo-analysis-panel p {
+        font-size: 12px;
+        line-height: 22px;
+        color: #000
+    }
+
+    .seo_projects_box p {
+        font-weight: 700;
+        color: #333;
+        margin: 0;
+        font-size: 18px;
+        line-height: 28px
+    }
+
+    .slider-nav-thumbnails.slick-initialized .slick-slide {
+        position: relative;
+        padding: 10px 6px;
+        font-size: 12px;
+        font-weight: 600;
+        text-align: center
+    }
+
+    .seo_projects_box p {
+        font-weight: 700;
+        color: #333;
+        margin: 0;
+        font-size: 18px;
+        line-height: 28px
+    }
+
+    .work_page .impression .owl-carousel .owl-nav.disabled {
+        display: block;
+        position: absolute;
+        bottom: 8px;
+        right: 84px;
+        top: inherit;
+        z-index: 999;
+        left: inherit
+    }
+
+
+
+
+    .viws_box h2 {
+        font-weight: 800;
+        color: #000;
+        font-size: 30px
+    }
+
+    .campaign-boxes {
+        max-width: 300px;
+        position: absolute;
+        right: 50px;
+        background: #fff;
+        padding: 5px 35px;
+        top: 0;
+        height: 100%
+    }
+
+    .wht_box {
+        min-height: 310px
+    }
+
+    .red_box.yellow_box img {
+        max-width: 300px
+    }
+
+    .marketing_solution.section {
+        padding-top: 110px
+    }
+
+    .red_box.green_box img {
+        max-width: 311px
+    }
+
+    .seo_img {
+        position: absolute;
+        bottom: -30px;
+        left: 0;
+        width: 70%
+    }
+
+    .seo_img img {
+        max-width: 100%
+    }
+
+    .work_page .owl-carousel .owl-nav.disabled {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: -6%
+    }
+
+    .eCommerce_banner {
+        position: absolute;
+        right: -130px;
+        top: 12%;
+        max-width: 746px
+    }
+
+    .technology_logo ul li:last-child {
+        display: none
+    }
+
+    .design_devlopment.section {
+        padding-top: 40px;
+        padding-bottom: 0
+    }
+
+    .web_design_page .bg_grey {
+        background: #be904f;
+        margin-top: 20px;
+        height: 628px;
+        position: relative;
+        padding-top: 60px
+    }
+
+    .our_project.section {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .second_menu ul {
+        padding: 0 21px 0 30px
+    }
+
+    .digital-content-panel p {
+        padding-right: 0;
+        color: #4d4d4d;
+        line-height: 24px;
+        font-size: 13px
+    }
+
+    .banner-content-ecommerce h1 {
+        color: #fff;
+        font-size: 38px;
+        line-height: 48px;
+        margin-bottom: 35px
+    }
+
+    .design_text h2 {
+        font-size: 45px
+    }
+
+    .interactive.video_serivces.section {
+        margin-top: 20px
+    }
+
+    .corporate_video .presentation_text h2 {
+        font-size: 45px
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce h1 {
+        position: absolute;
+        bottom: -198px
+    }
+
+    .banner.stratgey-bg.section {
+        height: 425px;
+        margin-top: 20px
+    }
+
+    .eCommerce_banner2 {
+        position: relative;
+        top: 5%;
+        width: 60%
+    }
+
+    .work_page .menu {
+        right: 20px;
+        top: 22px
+    }
+
+    .work_page .header_section.section .navbar-expand-md .navbar-collapse {
+        margin: 10px 0 26px
+    }
+
+    body.home_page .our_clients.section .clients_logo li {
+        background: rgb(255 255 255 / 18%);
+        margin-right: 13px;
+        width: 18%;
+        padding: 0;
+        margin-bottom: 13px
+    }
+
+    .bottom_menu li a {
+        font-size: 11px
+    }
+
+    .logo_brand img {
+        min-height: inherit !important
+    }
+
+    .diary_box_left {
+        padding: 25px 15px 20px 27px
+    }
+
+    .bottom_menu li {
+        display: inline-block;
+        margin-right: 12px;
+        margin-bottom: 18px;
+        margin-top: 18px
+    }
+
+    .col-md-6.business_help .full_image .logo_brand img {
+        mix-blend-mode: inherit;
+        min-height: inherit !important
+    }
+
+    a.navbar-brand img {
+        max-width: 80px !important;
+        margin-top: 0
+    }
+
+    .work_page div#collapsibleNavbar a {
+        font-size: 12px;
+        letter-spacing: 1px
+    }
+
+    .navbar-expand-md .navbar-collapse {
+        margin: 8px 0
+    }
+
+    body.work_page div#collapsibleNavbar li.nav-item.project_button a {
+        background: #6dacde;
+        border: 1px solid #fff;
+        padding: 8px 15px;
+        margin: 0 10px
+    }
+
+    div#collapsibleNavbar .menu_service h3 a {
+        font-size: 18px
+    }
+
+    .line-bg1 {
+        position: fixed;
+        background: #71aedd;
+        content: "";
+        width: 100%;
+        height: 1px;
+        left: 0;
+        z-index: 9;
+        top: 116px
+    }
+
+    .menu-pos .col-md-3 {
+        -ms-flex: 0 0 16%;
+        flex: 0 0 16%;
+        max-width: 16%
+    }
+
+    div#collapsibleNavbar a {
+        font-size: 12px;
+        padding: 8px 8px
+    }
+
+    .video_section .overlay-wcs {
+        display: none
+    }
+
+    .video_inside {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        transform: translate(0, -30%);
+        width: 100%;
+        max-width: 100%;
+        padding: 30px
+    }
+}
+
+@media only screen and (max-width:990px) {
+    ul.industry_type.pull-right.dig_market {
+        padding-bottom: 15px;
+    }
+
+    .col-md-12.i-human {
+        padding: 0
+    }
+
+    .record p {
+        position: relative;
+        padding-bottom: 40px;
+        color: #000;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    ul.list-group.list-group-flush li.nav-item.project_button {
+        display: none
+    }
+
+    .diary_box_left p,
+    .little_tag_content p,
+    .our_Diary .our_Diary_date p {
+        margin: 0;
+        font-family: 'Roboto Slab', serif;
+        font-size: 18px;
+        font-weight: 300;
+        color: #191919
+    }
+
+    .our_Diary_date strong {
+        font-family: Montserrat, sans-serif;
+        font-size: 14px;
+        color: #000
+    }
+
+    .our_Diary.section.mobile-dairy .owl-dots button.owl-dot {
+        margin-top: 20px
+    }
+
+    .our_diary_text p {
+        font-family: Montserrat, sans-serif;
+        color: #000;
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    .our_diary_text h2 {
+        font-size: 26px;
+        margin-bottom: 30px;
+        font-weight: 700;
+        color: #1a1a1a
+    }
+
+    .clients_logo h2 {
+        margin-bottom: 50px;
+        font-size: 26px;
+        font-weight: 700;
+        margin-top: 70px
+    }
+
+    .our_clients {
+        background: #f2f2f2;
+        padding-top: 130px;
+        padding-bottom: 70px
+    }
+
+    .experience_years.section li {
+        list-style: none;
+        padding: 0 15px
+    }
+
+    body.home_page .header_section.section .shadow-sm {
+        border: 0
+    }
+
+    .main_mobileApp p {
+        color: #fff;
+        line-height: 30px;
+        font-size: 18px;
+        margin-top: 50px;
+        padding: 0 20px 40px;
+        font-weight: 300;
+        font-family: 'Roboto Slab', serif
+        
+    }
+
+    .header_section.section.line nav.navbar.navbar-expand-lg.navbar-light {
+        padding: 8px 0
+    }
+
+    .header_section.section.line a.navbar-brand img {
+        max-width: 50px;
+        text-align: center;
+        padding: 0
+    }
+
+    .app_text p {
+        color: #000;
+        font-size: 14px;
+        padding-right: 0;
+        line-height: 26px
+    }
+
+    .hybirdImage_box {
+        min-height: auto;
+        line-height: initial;
+        text-align: center
+    }
+
+    .app_text h4 br {
+        display: none
+    }
+
+    .app_text h4 {
+        margin-bottom: 25px;
+        font-weight: 800;
+        font-size: 18px;
+        min-height: inherit;
+        color: #333
+    }
+
+    .mobile-app-2 p strong {
+        font-family: 'Roboto Slab', serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        color: #1a1a1a;
+        margin-top: 40px;
+        display: block
+    }
+
+    .mobile-app-2 p {
+        font-size: 14px;
+        line-height: 26px;
+        color: #000
+    }
+
+    .mobile-app-2 {
+        display: block;
+        clear: both;
+        padding: 45px 10px
+    }
+
+    .aap_banner-content {
+        float: left;
+        width: 100%
+    }
+
+    .appBanner h2 {
+        color: #fff;
+        font-size: 24px;
+        margin-bottom: 40px;
+        padding-bottom: 35px;
+        text-align: center;
+        display: block
+    }
+
+    .shopify_dev {
+        background: #dde2e9;
+        padding-bottom: 110px;
+        padding-top: 60px;
+        margin-top: 0;
+        margin-bottom: 0
+    }
+
+    .shopify_dev.section .design_text img {
+        max-width: 70%
+    }
+
+    .shopify_dev.section .design_text img {
+        max-width: 70%
+    }
+
+    .ecommerce_development.section .design_text img {
+        max-width: 70%
+    }
+
+    .design_devlopment.e-com-top2.section .design_text h2 {
+        padding-right: 30px
+    }
+
+    .wordpress_devlopment.magento_dev.section .design_text img {
+        max-width: 64%
+    }
+
+    .ecom-desktop {
+        display: none
+    }
+
+    .ecom-mobile {
+        display: block;
+        max-width: 443px;
+        position: relative;
+        top: 0;
+        z-index: 9999;
+        left: -18px
+    }
+
+    .banner.bg_blue.section.e-com-top h1 {
+        padding-right: 0
+    }
+
+    .eCommerce_banner {
+        position: static;
+        right: 0;
+        max-width: 100%;
+        padding-bottom: 20px
+    }
+
+    .banner.bg_blue.section.e-com-top {
+        padding-top: 30px;
+        padding-bottom: 0;
+        text-align: center
+    }
+
+    .apply-now-panel form {
+        width: 100%
+    }
+
+    body.home.blog .pagetitle {
+        text-align: center;
+        font-size: 30px;
+        color: #000;
+        font-weight: 600;
+        position: relative;
+        display: block;
+        text-align: center
+    }
+
+    body.home.blog .pagetitle:before {
+        content: "";
+        background: url(../images/e-line1.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    body.home.blog .pagetitle:after {
+        display: none
+    }
+
+    .single-post.work_page .pagetitle {
+        text-align: center;
+        font-size: 30px;
+        color: #000;
+        font-weight: 600;
+        position: relative;
+        display: block;
+        text-align: center
+    }
+
+    .single-post.work_page .pagetitle:before {
+        content: "";
+        background: url(../images/e-line1.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .single-post.work_page .pagetitle:after {
+        display: none
+    }
+
+    .start_project.section {
+        text-align: center
+    }
+
+    .start_project.section h2 {
+        font-size: 35px;
+        line-height: 48px;
+        text-align: center
+    }
+
+    .footer.section h2 {
+        font-weight: 700;
+        font-size: 30px;
+        margin-bottom: 30px
+    }
+
+    .appy-box.row [type=file] {
+        width: 100%;
+        left: 0
+    }
+
+    .maintence_boxes span {
+        margin-left: 18px;
+        display: inline-block;
+        font-size: 21px;
+        color: #2b4456;
+        max-width: 145px;
+        vertical-align: middle;
+        line-height: 30px;
+        font-weight: 400
+    }
+
+    .maintence_boxes {
+        display: flex;
+        width: 100%;
+        padding: 0 39px;
+        margin-bottom: 30px
+    }
+
+    .maintence_boxes img {
+        width: 65px;
+        height: 65px;
+        object-fit: contain;
+        margin-right: 20px
+    }
+
+    .maintence_icon.section {
+        padding: 60px 0 30px;
+        border-top: 1px solid #ddd;
+        margin-top: 0
+    }
+
+    .ecommerce_development.section {
+        padding-bottom: 130px;
+        padding-top: 60px
+    }
+
+    .design_text ul li {
+        display: inline-block;
+        margin-right: 0
+    }
+
+    .work_page .owl-nav span {
+        font-size: 30px;
+        border: 0;
+        width: 54px;
+        height: 54px
+    }
+
+    .work_page .owl-nav button.owl-next span {
+        background: url(../images/slider-right.svg) no-repeat;
+        width: 54px;
+        background-size: 100%;
+        height: 54px;
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #333
+    }
+
+    .work_page .wordpress_devlopment.web_App.section .owl-nav button.owl-next span {
+        background: url(../images/slider-right.svg) no-repeat;
+        width: 55px;
+        background-size: 100%;
+        height: 54px;
+        border-top: 1px solid #676767;
+        border-bottom: 1px solid #676767
+    }
+
+    .design_text p {
+        font-size: 14px;
+        color: #1a1a1a;
+        line-height: 26px
+    }
+
+    .design_text .btn {
+        margin: 0;
+        margin-top: 20px;
+        font-weight: 600;
+        padding-left: 20px;
+        padding-right: 20px
+    }
+
+    .our_project.desktop_Project.section.web_desgin_mobile .right_content_mobile {
+        margin-bottom: 35px
+    }
+
+    .dev_solution {
+        font-weight: 500;
+        margin-bottom: 40px
+    }
+
+    .color_boxes.project_mobiles.web-design-mobile2 {
+        clear: both;
+        display: none
+    }
+
+    .dev_solution p {
+        line-height: 28px
+    }
+
+    .our_project.desktop_Project.section.web_desgin_mobile p {
+        font-size: 14px;
+        color: #000
+    }
+
+    .our_project.desktop_Project.section.web_desgin_mobile h3 {
+        font-size: 50px
+    }
+
+    .our_project.desktop_Project.section.web_desgin_mobile .col-6:nth-child(3) {
+        display: none
+    }
+
+    .right_content_mobile {
+        display: block
+    }
+
+    .banner-content-ecommerce p {
+        text-align: left;
+        font-size: 14px
+    }
+
+    .web-banner-desktop {
+        display: none
+    }
+
+    .web-banner-mobile {
+        display: block;
+        text-align: center;
+        margin: auto
+    }
+
+    .banner-content-ecommerce h2:before {
+        position: absolute;
+        bottom: 0;
+        left: 65px;
+        content: "";
+        width: 90px;
+        height: 3px;
+        background: 0 0;
+        margin: auto
+    }
+
+    .banner-content-ecommerce h2:after {
+        position: absolute;
+        bottom: 0;
+        right: 70px;
+        content: "";
+        width: 90px;
+        height: 3px;
+        background: 0 0;
+        margin: auto;
+        left: inherit
+    }
+
+    .banner-content-ecommerce h2:after {
+        content: "";
+        background: url(../images/e-line.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .banner-content-ecommerce h2 {
+        color: #fff;
+        font-size: 24px;
+        display: inline-block;
+        text-align: center;
+        padding-bottom: 35px
+    }
+
+    .header_section.section .shadow-sm {
+        box-shadow: inherit !important;
+        border-bottom: 1px solid rgb(109 172 222 / 65%)
+    }
+
+    ul.agency_box li:nth-child(1) {
+        background: #c8621e
+    }
+
+    ul.agency_box li:nth-child(2) {
+        background: #1e99c8
+    }
+
+    ul.agency_box li:nth-child(3) {
+        background: #304c71
+    }
+
+    ul.agency_box li:nth-child(4) {
+        background: #c8a01e
+    }
+
+    .down-arrow {
+        position: absolute;
+        right: 12px;
+        top: 7px;
+        pointer-events: none
+    }
+
+    ul.industry_type {
+        padding: 0;
+        margin-top: 45px;
+        float: none;
+        text-align: center;
+        margin-bottom: 35px
+    }
+
+    ul.industry_type select.form-control {
+        padding-right: 40px;
+        border: none;
+        -webkit-appearance: none;
+        padding-left: 25px;
+        box-shadow: 1px 1px 10px rgb(0 0 0 / 5%);
+        border-radius: 30px
+    }
+
+    .custom-navbar li:last-child {
+        margin-right: 0
+    }
+
+    .testimonials_page.section {
+        padding-top: 0;
+        text-align: center;
+        margin-top: 70px
+    }
+
+    .work_page2 h2 {
+        font-size: 29px;
+        color: #2b4456;
+        font-weight: 600;
+        line-height: 36px;
+        padding: 0 20px
+    }
+
+    .custom-navbar {
+        /* margin-top:25px; */
+        padding: 0;
+        position: relative;
+        text-align: center
+    }
+
+    ul.agency_box.eLearning_box li:nth-child(2n) {
+        position: relative;
+        top: 0
+    }
+
+    .technology_all_logo.section {
+        padding: 50px 15px
+    }
+
+    .technology_logo ul li:nth-child(1n) {
+        border-right: 1px solid #ddd !important
+    }
+
+    .technology_logo ul li:nth-child(3),
+    .technology_logo ul li:nth-child(4) {
+        border-top: 1px solid #ddd
+    }
+
+    .technology_logo ul li:nth-child(2n) {
+        border-right: 0px !important
+    }
+
+    .technology_text p {
+        padding-right: 0;
+        font-size: 14px;
+        color: #000
+    }
+
+    .technology h5 {
+        margin-bottom: 40px;
+        font-weight: 400;
+        font-size: 20px;
+        color: #1a1a1a;
+        line-height: 32px;
+        margin-top: 30px;
+        padding-right: 14px;
+        font-family: Montserrat, sans-serif
+    }
+
+    .yellow_box ul li {
+        line-height: 30px;
+        border-bottom: 1px solid rgb(112 112 112 / 16%);
+        padding: 8px 0;
+        font-size: 15px;
+        color: #4d4d4d;
+        font-weight: 600
+    }
+
+    .yellow_box a.btn {
+        font-size: 14px;
+        display: inline-block;
+        max-width: 75%;
+        margin: 30px auto
+    }
+
+    .yellow_box.redB.blueB a.btn {
+        max-width: 100%
+    }
+
+    body .tab-content ul.agency_box li {
+        padding: 26px;
+        margin: 0;
+        min-height: 180px;
+        float: left;
+        width: 50%
+    }
+
+    body .tab-content ul.agency_box li h3 {
+        color: #fff !important
+    }
+
+    body .tab-content ul.agency_box li p {
+        color: #fff !important;
+        margin: 0;
+        font-size: 14px
+    }
+
+    .tab_part.section {
+        padding-top: 50px
+    }
+
+    ul.nav.nav-pills.navtop a.nav-link.active p {
+        color: #fff
+    }
+
+    .tab_part.section .container {
+        padding: 0
+    }
+
+    .tab_part.section .tab-content {
+        padding: 0 15px
+    }
+
+    ul.nav.nav-pills.navtop p {
+        color: #191919;
+        font-weight: 800;
+        margin-top: 15px;
+        font-family: 'Roboto Slab', serif
+    }
+
+    ul.agency_box {
+        padding: 0
+    }
+
+    .company_text h1 {
+        position: relative;
+        display: inline-block;
+        padding-bottom: 15px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #000
+    }
+
+    .main_record.section {
+        padding: 40px 15px 60px
+    }
+
+    .company_text h1:after {
+        position: absolute;
+        background: #fcd430;
+        content: "";
+        width: 85%;
+        height: 3px;
+        bottom: -10px;
+        right: -35px
+    }
+
+    .company_text h1:before {
+        position: absolute;
+        background: #536497;
+        content: "";
+        width: 85%;
+        height: 3px;
+        bottom: -10px;
+        left: -41px
+    }
+
+    .testimonials_page h1 {
+        font-size: 24px;
+        color: #000;
+        font-weight: 600;
+        position: relative;
+        padding: 0 0 15px;
+        display: block;
+        text-align: center
+    }
+
+    .testimonials_page h1:after {
+        position: absolute;
+        background: #fcd430;
+        content: "";
+        width: 100%;
+        height: 3px;
+        bottom: -10px;
+        right: -29px;
+        left: inherit
+    }
+
+    .testimonials_page h1:before {
+        position: absolute;
+        background: #536497;
+        content: "";
+        width: 100%;
+        height: 3px;
+        bottom: -10px;
+        left: -35px
+    }
+
+    .company_banner .company_text h4 {
+        font-weight: 800;
+        font-size: 22px;
+        margin-top: 0
+    }
+
+    .company_text img {
+        max-width: 55%;
+        display: block;
+        margin: 50px auto 0
+    }
+
+    .company_img.mobile-company-img {
+        display: block
+    }
+
+    .company_img.desktop-mobile-img {
+        display: none
+    }
+
+    .company_img {
+        position: static
+    }
+
+    .company_img img {
+        width: 100%;
+        max-width: 100%
+    }
+
+    .adm-popup.menuopened1 .contact_form {
+        height: 600px;
+        overflow-y: scroll;
+        padding: 0 20px 40px
+    }
+
+    .start-project a:after {
+        display: none !important;
+        width: 11px;
+        content: "";
+        height: 11px;
+        border-left: 1px solid #fff !important;
+        border-bottom: 1px solid #fff !important;
+        -webkit-transform: rotate(133deg);
+        -moz-transform: rotate(133deg);
+        -ms-transform: rotate(133deg);
+        -o-transform: rotate(133deg);
+        transform: rotate(133deg);
+        position: absolute;
+        top: 10px;
+        right: 0;
+        display: inline-block;
+        text-indent: 0;
+        padding: 5px;
+        text-align: center;
+        left: 0;
+        margin: auto
+    }
+
+    .start-project {
+        display: inline-block
+    }
+
+    .or {
+        display: inline-block;
+        position: relative;
+        margin: 0 10px
+    }
+
+    .number-slide {
+        display: inline-block
+    }
+
+    .start-project a {
+        color: #fff;
+        text-decoration: none;
+        padding: 19px 6px 14px 0;
+        display: inline-block;
+        position: relative;
+        font-family: 'Roboto Slab', serif;
+        font-weight: 300
+    }
+
+    .or p {
+        background: #fff;
+        padding: 3px 8px;
+        border-radius: 50%;
+        margin: 11px 6px 9px
+    }
+
+    .number-slide a {
+        color: #fff;
+        font-family: 'Roboto Slab', serif;
+        font-weight: 300
+    }
+
+    .mobile-slide-menu {
+        display: block
+    }
+
+    .mobile-admission-link {
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        background: #2c407f;
+        width: 100%;
+        display: block;
+        z-index: 9999999
+    }
+
+    .adm-popup.menuopened1 h2 {
+        color: #2b4456;
+        font-size: 30px;
+        padding-right: 50px;
+        margin-bottom: 40px;
+        font-weight: 700
+    }
+
+    .adm-popup.menuopened1 a.close_icon {
+        right: 33px;
+        position: absolute;
+        top: 120px;
+        background: url(../images/close_icon.svg) no-repeat;
+        border: 0;
+        width: 40px;
+        height: 40px
+    }
+
+    .adm-popup.menuopened1 {
+        transform: translate(0, -15px);
+        background: #f6f6f6;
+        width: 100%;
+        display: block;
+        height: 100vh;
+        position: fixed;
+        left: 0;
+        z-index: 99999999;
+        bottom: -15px;
+        transition: .5s;
+        color: #fff
+    }
+
+    .adm-popup {
+        padding: 80px 17px;
+        transform: translate(0, 1000px);
+        background: #000;
+        transition: 2s;
+        width: 100%;
+        display: block;
+        height: 100vh;
+        position: fixed;
+        left: 0;
+        z-index: 99999;
+        transition: .5s;
+        bottom: 0
+    }
+
+    .project_images.section .owl-item .img_box1 {
+        margin-top: 5px
+    }
+
+    .clients_logo .img_box2 {
+        width: 100%;
+        height: 140px;
+        line-height: inherit;
+        text-align: center;
+        margin: auto
+    }
+
+    .digital2 {
+        text-align: center;
+        padding-bottom: 5px
+    }
+
+    .footer_details {
+        background: #0d0d0d;
+        padding: 35px 0 70px;
+        margin-top: 20px;
+        text-align: center;
+        border-top: 1px solid #ddd
+    }
+
+    .footer.section {
+        background: #1a1a1a;
+        padding-bottom: 0;
+        padding-top: 50px
+    }
+
+    .logo_brand {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        width: 35%
+    }
+
+    .our_Diary.section.desktop-dairy {
+        display: none
+    }
+
+    .our_Diary.section.mobile-dairy {
+        display: block;
+        padding-top: 70px;
+        padding-bottom: 50px
+    }
+
+    .our_Diary_box.yellow-bg {
+        background: #fcca01;
+        min-height: 280px
+    }
+
+    .clients_logo .img_box2 img {
+        margin: 0 auto;
+        max-width: 77%
+    }
+
+    .digital_contennt p {
+        font-size: 14px;
+        font-family: Montserrat, sans-serif;
+        color: #1a1a1a;
+        line-height: 26px;
+        font-weight: 500;
+        margin-bottom: 50px
+    }
+
+    .our_diary_text {
+        margin-bottom: 30px
+    }
+
+    .our_Diary_box {
+        margin-bottom: 20px;
+        box-shadow: -1px 7px 7px rgb(0 0 0 / 2%)
+    }
+
+    .experience_years .owl-nav {
+        display: block !important;
+        position: absolute;
+        left: 5px;
+        bottom: -60px
+    }
+
+    .digital5 .owl-carousel .owl-item img {
+        display: block;
+        width: 60%
+    }
+
+    .brand_images h4 {
+        color: #000;
+        font-size: 28px;
+        margin-top: 10px;
+        font-weight: 800;
+        margin-bottom: 20px
+    }
+
+    .experience_years.section {
+        padding-top: 60px;
+        padding-bottom: 60px
+    }
+
+    .video_inside .bottom_menu {
+        display: none
+    }
+
+    .video_inside h1 {
+        color: #fff;
+        font-size: 52px;
+        line-height: 53px;
+        margin-bottom: 55px;
+        padding: 30px
+    }
+
+    .agency_box li h3 {
+        font-size: 45px
+    }
+
+    .yellow_box {
+        padding: 30px
+    }
+
+    ul.nav li.nav-item img {
+        max-width: 40px
+    }
+
+    .agency_box li p {
+        padding: 0;
+        font-size: 13px;
+        font-weight: 300
+    }
+
+    ul.nav.nav-pills.navtop a.nav-link {
+        padding: 10px 20px;
+        font-size: 14px
+    }
+
+    ul.nav.nav-pills.navtop li {
+        margin: 0 7px
+    }
+
+    .company_banner {
+        margin-top: 0;
+        padding-bottom: 0
+    }
+
+    .company_banner .company_text {
+        margin-top: 75px;
+        text-align: center;
+        padding: 0
+    }
+
+    .technology_logo ul li {
+        width: 49%
+    }
+
+    .technology h2 {
+        font-size: 30px;
+        color: #2b4456;
+        font-weight: 800
+    }
+
+    .technology_text {
+        padding-right: 0;
+        padding-bottom: 30px
+    }
+
+    .bottom_para {
+        padding: 40px 30px 10px;
+        text-align: left;
+        position: static
+    }
+
+    .desktop_menu {
+        display: none
+    }
+
+    .logo {
+        padding: 20px 0 20px 0
+    }
+
+    li.nav-item {
+        margin: 0
+    }
+
+    .mobile_device2 {
+        display: block;
+        background: 0 0
+    }
+
+    .header_section.section.line .mobile_device2 {
+        background: #6dacde
+    }
+
+    ul.list-group.list-group-flush {
+        border-top: 0;
+        margin-top: 30px
+    }
+
+    .video_section {
+        position: relative;
+        background-color: #000;
+        height: 100vh;
+        width: 100%;
+        overflow: hidden;
+        margin-top: 0
+    }
+
+    a.navbar-brand img {
+        max-width: 70px;
+        text-align: center;
+        padding: 0
+    }
+
+    .navbar-toggler {
+        border-radius: 0;
+        margin: 10px;
+        padding: 2px;
+        background: no-repeat;
+        border: 1px solid #fff;
+        color: #fff;
+        font-size: 16px;
+        line-height: 22px
+    }
+
+    ul.navbar-nav.ml-auto {
+        background: #1e2f3c;
+        padding: 10px 0
+    }
+
+    .video_inside {
+        display: block;
+        transform: inherit;
+        left: 0;
+        max-width: 100%;
+        bottom: 120px
+    }
+
+    .new_media ul.nav.nav-fill.navtop:after,
+    .new_media ul.nav.nav-fill.navtop:before,
+    .technology_Works:after,
+    .technology_Works:before,
+    .technology_all_logo:after,
+    .technology_all_logo:before {
+        display: none
+    }
+
+    div#menu1:before {
+        left: 0
+    }
+
+    .technical_Section,
+    p.development_services {
+        padding: 0
+    }
+
+    .tabContentMian h2 {
+        font-size: 28px
+    }
+
+    .agency_boxes p {
+        max-width: 100%
+    }
+
+    .technical_Section li a {
+        width: 100%
+    }
+
+    .second_menu {
+        display: none
+    }
+
+    .bg-grey .col-md-2 {
+        text-align: left
+    }
+
+    a.navbar-brand {
+        margin-left: 0;
+        margin: 0;
+        padding: 0;
+        display: inline-block
+    }
+
+    .company_page .navbar-toggler {
+        position: absolute;
+        right: 0
+    }
+
+    img.main_banner {
+        margin-top: 60px
+    }
+
+    .new_media {
+        margin-top: 130px;
+        padding-bottom: 20px
+    }
+
+    .new_media li.nav-item {
+        border-right: 1px solid #ddd;
+        border-bottom: 0
+    }
+
+    .new_media li.nav-item:last-child {
+        border-bottom: 1px solid #ddd
+    }
+
+    .agency_boxes {
+        padding: 0 40px
+    }
+
+    div#menu1:before {
+        display: none
+    }
+
+    .banner_sectionTab .col-md-6 .row {
+        background: #fcca01;
+        padding: 30px 0
+    }
+
+    .technology_Text h5 {
+        font-size: 18px;
+        line-height: 26px;
+        margin: 30px 0
+    }
+
+    .logo_box {
+        width: 100%
+    }
+
+    .experience_box p {
+        display: none
+    }
+
+    .logo_box img {
+        max-width: 100% !important
+    }
+
+    .partners_logo.desktop_device_logo {
+        margin-top: 30px;
+        display: none
+    }
+
+    .banner.bg_blue.section {
+        margin-top: 55px
+    }
+
+    .ecommerce_development,
+    .wordpress_devlopment {
+        padding-top: 30px
+    }
+
+    .technology_Works.section {
+        padding-bottom: 0
+    }
+
+    .copy_wright li {
+        margin: 0 5px
+    }
+
+    .social_icons .pull-right {
+        float: none;
+        text-align: center;
+        margin-top: 10px !important
+    }
+
+    .technical_Section h4 {
+        margin-top: 40px
+    }
+
+    .agency_boxes:last-child {
+        margin-bottom: 0
+    }
+
+    .agency_boxes {
+        margin: 0 0 20px 0
+    }
+
+    .experience_box img {
+        max-width: 200px
+    }
+
+    .new_media li.nav-item {
+        display: inline-block;
+        width: 170px;
+        height: 160px;
+        border-right: 0;
+        border-bottom: 1px solid #ddd
+    }
+
+    .new_media li.nav-item h5 {
+        margin-top: 15px
+    }
+
+    .experience_box h6 {
+        font-size: 18px;
+        display: block
+    }
+
+    .experience_box {
+        bottom: inherit;
+        left: 0;
+        transform: translate(0, -50%);
+        max-width: 100%;
+        top: 95%;
+        background: #fff
+    }
+
+    .heading1 {
+        top: 25%
+    }
+
+    div#jquery-accordion-menu {
+        display: block
+    }
+
+    div#collapsibleNavbar a {
+        border-bottom: 1px solid #2d4150;
+        padding: 15px 0
+    }
+
+    li.nav-item.project_button a.nav-link {
+        border: none !important
+    }
+
+    div#collapsibleNavbar li:nth-child(4) a.nav-link {
+        border-bottom: none
+    }
+
+    div#collapsibleNavbar a {
+        font-weight: 400
+    }
+
+    ul.submenu li:last-child a {
+        border-bottom: none !important
+    }
+
+    div#collapsibleNavbar ul.submenu a {
+        border-bottom: 1px solid #6fb6e6
+    }
+
+    li.nav-item.project_button {
+        border: 1px solid #2d4150;
+        height: 46px
+    }
+
+    a.nav-link.servicesD {
+        display: none !important
+    }
+
+    .work_testify h2 {
+        font-size: 28px;
+        padding: 0 20px
+    }
+
+    .our_projects {
+        padding-top: 0
+    }
+
+    ul.custom-navbar:before {
+        display: none
+    }
+
+    /* .work_page .clear{margin-top:65px} */
+    .sticky_menu {
+        margin: 20px 0 0;
+        top: 93px;
+    }
+
+    .work_all_images .project_images_box {
+        margin-bottom: 0
+    }
+
+    .custom-navbar li {
+        margin-right: 24px
+    }
+
+    .our_projects h5 {
+        font-size: 18px;
+        line-height: 26px
+    }
+
+    ul.industry_type li {
+        margin-right: 6px
+    }
+
+    .digital2 h2 {
+        font-size: 22px
+    }
+
+    .appBanner {
+        margin-top: 55px;
+        text-align: center;
+        padding-top: 30px
+    }
+
+    .aap_banner-content p {
+        display: none
+    }
+
+    .imgAppBanner {
+        margin-top: 60px;
+        text-align: center;
+        display: block
+    }
+
+    .main_mobileApp {
+        margin: 0 !important;
+        padding-top: 10px;
+        padding-bottom: 50px
+    }
+
+    .hybird_appdevelopment.section {
+        padding: 0
+    }
+
+    .col-md-4.col-sm-12 .hybird_box:last-child {
+        border-bottom: 0
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light {
+        padding: 20px 0
+    }
+
+    .our_clients.section ul {
+        padding: 0;
+        margin: 0
+    }
+
+    .clients_logo li {
+        display: inline-block;
+        max-width: 140px;
+        width: 170px;
+        height: 100px;
+        line-height: 100px;
+        margin-bottom: 5px
+    }
+
+    .our_Diary_box img {
+        height: auto
+    }
+
+    .col-md-6.pr-1.pb-1 {
+        padding-right: 15px !important
+    }
+
+    .diary_box_left {
+        padding: 20px 60px 50px 30px
+    }
+
+    .row.pb-1 {
+        margin-left: 0
+    }
+
+    .full_image img {
+        min-height: 100% !important
+    }
+
+    nav.navbar.navbar-expand-md {
+        display: none
+    }
+
+    .digital_contennt {
+        margin: 0;
+        max-width: 100%
+    }
+
+    .col-md-6.left_contents {
+        padding-left: 15px
+    }
+
+    .col-md-6.remove_padding {
+        padding-right: 15px
+    }
+
+    .col-md-6.business_help {
+        padding-right: 15px
+    }
+
+    .col-md-6.right_contents {
+        padding-left: 15px
+    }
+
+    .work_page li.nav-item.project_button {
+        margin-right: 0
+    }
+
+    .banner-content-ecommerce h1 {
+        font-size: 28px;
+        line-height: 36px
+    }
+
+    .work_page .owl-nav.disabled button {
+        display: inline-block;
+        vertical-align: top
+    }
+
+    .work_page .owl-carousel .owl-nav.disabled {
+        left: 0;
+        bottom: -60px;
+        top: inherit;
+        text-align: center;
+        right: 0
+    }
+
+    .design_text h2 {
+        font-size: 30px
+    }
+
+    .web_design_page .bg_grey {
+        margin-top: 55px;
+        padding-top: 30px;
+        text-align: center;
+        height: inherit;
+        padding-bottom: 30px
+    }
+
+    .right_content {
+        display: none
+    }
+
+    .work_page .owl-carousel {
+        padding: 20px 0
+    }
+
+    .design_devlopment.section {
+        padding-bottom: 110px;
+        padding-top: 15px
+    }
+
+    .wordpress_devlopment.section {
+        padding-bottom: 130px;
+        padding-top: 60px
+    }
+
+    .our_project.desktop_Project.section {
+        padding: 0 10px
+    }
+
+    .color_boxes.project_mobiles {
+        display: block
+    }
+
+    .web_design_page .clear {
+        margin-top: 30px
+    }
+
+    .new_media_Image {
+        position: initial
+    }
+
+    .making_brands h2 {
+        font-size: 30px;
+        text-align: center;
+        line-height: 36px;
+        margin-top: 50px
+    }
+
+    .presentation_text ul li {
+        margin-right: 5px
+    }
+
+    .presentation_text a.btn {
+        padding: 6px 15px
+    }
+
+    .corporate_video .slider_right,
+    .interactive_presentation .slider_right,
+    .power_presentation .slider_right {
+        float: none;
+        max-width: 540px;
+        margin: auto;
+        margin-top: 30px
+    }
+
+    .power_presentation {
+        padding-bottom: 90px;
+        padding-top: 50px
+    }
+
+    .corporate_video.section {
+        padding-bottom: 90px
+    }
+
+    .branding_img img {
+        max-width: 100%
+    }
+
+    .branding_img {
+        position: initial;
+        right: 0;
+        left: 0;
+        bottom: 0
+    }
+
+    .presentation_text h2 {
+        font-size: 32px
+    }
+
+    .video_img {
+        display: none
+    }
+
+    .video_page .making_brands {
+        margin-top: 50px
+    }
+
+    .interactive .making_brands h2 {
+        font-size: 24px;
+        line-height: 36px
+    }
+
+    .making_img {
+        position: inherit;
+        right: 0;
+        left: 0;
+        bottom: 0
+    }
+
+    .interactive {
+        padding-bottom: 50px
+    }
+
+    .interactive_presentation.section {
+        padding-bottom: 90px
+    }
+
+    .seo_img {
+        position: absolute;
+        bottom: -81px;
+        left: -110px;
+        right: 0;
+        width: 100%;
+        overflow: hidden;
+        width: 126%
+    }
+
+    .seo_right_text {
+        position: inherit;
+        max-width: 100%;
+        width: 100%;
+        margin-top: 20px
+    }
+
+    .digital_marketing.section {
+        height: auto;
+        margin-top: 55px;
+        padding-bottom: 290px
+    }
+
+    .marketing_solution h2 {
+        font-size: 18px;
+        letter-spacing: .5px;
+        line-height: 30px;
+        font-weight: 400
+    }
+
+    .marketing_solution.section {
+        padding-top: 50px;
+        padding-left: 10px;
+        padding-right: 10px
+    }
+
+    .experience_details .col-md-4 {
+        padding-right: 15px
+    }
+
+    .digitalSlider {
+        padding-top: 0
+    }
+
+    .digital_experience.section h2 {
+        font-size: 30px;
+        font-weight: 700;
+        padding: 0 35px;
+        line-height: 36px
+    }
+
+    .red_box {
+        padding: 30px
+    }
+
+    .red_box.green_box img {
+        max-width: 250px
+    }
+
+    .red_box.yellow_box img {
+        max-width: 160px
+    }
+
+    .red_box.black_box img {
+        max-width: 155px
+    }
+
+    .wht_box {
+        
+        padding-bottom: 20px;
+        margin-bottom: 0;
+        padding-top: 20px
+    }
+
+    .process_box:after {
+        display: none
+    }
+
+    .process_box.boxTwo {
+        padding: 10px
+    }
+
+    .process_box {
+        padding-top: 15px
+    }
+
+    .process_box.boxOne {
+        padding-right: 0
+    }
+
+    .img_box {
+        padding: 30px 0
+    }
+
+    .process_box.boxThree {
+        margin-left: 10px;
+        padding-top: 50px
+    }
+
+    .seo_projects_box {
+        padding: 30px 0;
+        margin-right: 3px;
+        min-height: 157px
+    }
+
+    .seo_projects_box br {
+        display: none
+    }
+
+    .responsive-tabs-container .tab-content {
+        padding: 10px 0
+    }
+
+    .process_box.boxTwo .img_box:before {
+        left: -10px
+    }
+
+    .seo_projects {
+        padding: 50px 10px
+    }
+
+    .trained_tab {
+        padding: 0 20px
+    }
+
+    .maintain_box p {
+        padding: 0 0 0 20px
+    }
+
+    .lead_base_boxes li {
+        width: 44%;
+        margin: 9px;
+        padding: 20px
+    }
+
+    .principal .col-md-5 {
+        padding-left: 15px;
+        padding-bottom: 40px
+    }
+
+    .principal .col-md-7 {
+        padding-right: 15px
+    }
+
+    .principal_text {
+        padding: 0 15px;
+        color: #2b4456;
+        font-size: 30px
+    }
+
+    .principal_text h2 {
+        font-size: 26px
+    }
+
+    .paid_market_Image img {
+        max-width: 115%
+    }
+
+    .branding_text h2 {
+        font-size: 30px
+    }
+
+    .imgAppBanner {
+        position: initial
+    }
+
+    .imgAppBanner img {
+        max-width: 100%
+    }
+
+    .aap_banner-content h1 {
+        font-size: 29px;
+        line-height: 36px;
+        margin-bottom: 0
+    }
+
+    .digital_contennt h2 {
+        font-size: 30px;
+        line-height: 40px
+    }
+
+    .digital_contennt {
+        padding-left: 0
+    }
+
+    .seo_img img {
+        max-width: 145%
+    }
+
+    .work_page .header_section:after,
+    .work_page .header_section:before {
+        display: none
+    }
+
+    .yellow_box a {
+        text-decoration: none;
+        color: #333;
+        font-size: 16px
+    }
+
+    .yellow_box p {
+        font-size: 14px;
+        line-height: 28px;
+        color: #000;
+        margin-bottom: 30px
+    }
+
+    .tab_part.section .tab-content .col-md-6 {
+        padding: 0
+    }
+
+    .how-digital-stratgey .slider_right {
+        width: 100%
+    }
+
+    .new-branding-img {
+        position: static;
+        top: 0;
+        width: 100%
+    }
+
+    .digital-content1 h3 {
+        font-size: 36px;
+        color: #2b4456;
+        line-height: 38px
+    }
+
+    .banner.stratgey-bg.section {
+        height: inherit;
+        margin-top: 37px;
+        padding-bottom: 47px
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce h1 {
+        position: static;
+        bottom: 0;
+        font-size: 24px;
+        line-height: 32px;
+        padding: 0 15px;
+        margin: 60px 0 0
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce h2:before {
+        position: absolute;
+        bottom: 0;
+        left: 65px;
+        content: "";
+        width: 66px;
+        height: 3px;
+        background: #2c407f;
+        margin: auto
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce h2:after {
+        position: absolute;
+        bottom: 0;
+        right: 30px;
+        content: "";
+        width: 66px;
+        height: 3px;
+        background: #fff;
+        margin: auto;
+        left: inherit
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce h2 {
+        color: #fff;
+        font-size: 24px;
+        display: inline-block;
+        text-align: center;
+        padding-bottom: 30px;
+        margin-left: 17px
+    }
+
+    .digital-stratgey {
+        padding: 80px 10px 14px;
+        clear: both
+    }
+
+    .banner.stratgey-bg.section.m-none {
+        display: none
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce {
+        margin-left: 0;
+        padding: 0
+    }
+
+    .our-four-step {
+        margin: 50px 0 0
+    }
+
+    .our-four-step .step br {
+        display: none
+    }
+
+    .work_page .stratgey-slider .owl-carousel .owl-nav.disabled {
+        display: block;
+        position: absolute;
+        top: inherit;
+        left: 0;
+        text-align: center;
+        right: 0
+    }
+
+    .work_page .stratgey-slider .owl-nav span {
+        background-size: 100%;
+        width: 41px;
+        height: 42px
+    }
+
+    .why-digital-stratgey {
+        padding: 0 10px
+    }
+
+    .our-branding-stratgey {
+        padding: 0 10px
+    }
+
+    .digital-transformation {
+        padding: 0 10px
+    }
+
+    .our-four-step .step h5 {
+        font-size: 18px;
+        margin: 18px 0 18px;
+        font-family: Montserrat, sans-serif;
+        font-weight: 700
+    }
+
+    .our-four-step .step p {
+        font-size: 14px;
+        line-height: 26px
+    }
+
+    .our-four-step .step {
+        padding: 40px 28px
+    }
+
+    .digital-transformation h2 {
+        margin: 50px 0;
+        color: #2b4456;
+        font-size: 26px;
+        font-weight: 700
+    }
+
+    .branding-stratgey {
+        margin: 50px 10px 0
+    }
+
+    .new-branding-content p {
+        font-size: 14px;
+        line-height: 28px
+    }
+
+    .digital-content1 p {
+        font-size: 14px;
+        line-height: 28px;
+        margin: 30px 0 0
+    }
+
+    .branding-stratgey .col-md-7 img {
+        position: static;
+        left: 0
+    }
+
+    .branding-bg1 h2 {
+        font-size: 18px;
+        font-weight: 800;
+        margin-bottom: 25px
+    }
+
+    .branding-bg1 ul li:before {
+        content: "";
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 11px;
+        left: -40px;
+        background: url(../images/w-arrow.svg) no-repeat
+    }
+
+    .branding-bg1 {
+        background: #fcca01;
+        border-radius: 28px;
+        padding: 50px 32px 30px
+    }
+
+    .branding-bg1 ul li {
+        display: inline-block;
+        width: 100%;
+        padding: 10px 0;
+        color: #191919;
+        font-family: 'Roboto Slab', serif;
+        position: relative;
+        font-size: 18px
+    }
+
+    .branding-stratgey-content {
+        padding: 45px 0
+    }
+
+    .branding-stratgey-content p {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    .branding-stratgey-content h2 {
+        margin-bottom: 36px;
+        color: #2b4456;
+        font-size: 26px;
+        font-weight: 700
+    }
+
+    .branding-quote h3 {
+        font-size: 18px;
+        color: #191919;
+        margin-left: 0;
+        border-top: 1px solid #000;
+        padding-top: 40px
+    }
+
+    .stratgey-slider img {
+        display: block !important;
+        margin-right: 0;
+        margin: auto;
+        min-height: 54px
+    }
+
+    .work_page .stratgey-slider .owl-nav button.owl-next span {
+        background: url(../images/d-right-arrow.svg) no-repeat;
+        border: 0;
+        background-size: 100%;
+        width: 41px;
+        height: 41px;
+        vertical-align: top;
+        margin-left: 5px
+    }
+
+    .stratgey-slider p {
+        display: inline-block;
+        width: 100%;
+        color: #fff;
+        font-size: 13px;
+        margin: 13px 0
+    }
+
+    .how-digital-stratgey h2 {
+        margin-bottom: 35px;
+        color: #fff;
+        font-size: 24px;
+        font-weight: 400
+    }
+
+    .digital-list {
+        padding-left: 0
+    }
+
+    .how-digital-stratgey {
+        background: #2b4456;
+        clear: both;
+        padding: 59px 10px 10px;
+        margin-top: 20px;
+        text-align: center
+    }
+
+    .digital-stratgey h2 {
+        margin-bottom: 40px;
+        color: #2b4456;
+        font-size: 26px;
+        font-weight: 600
+    }
+
+    .digital-content-panel h3:after {
+        background: #000;
+        width: 100%;
+        height: 1px;
+        position: absolute;
+        content: "";
+        bottom: -50px;
+        left: 0
+    }
+
+    .digital-content-panel p {
+        padding-right: 0;
+        color: #4d4d4d;
+        line-height: 26px;
+        font-size: 14px
+    }
+
+    .why-digital-stratgey h2 {
+        margin-bottom: 30px;
+        color: #2b4456;
+        font-size: 34px;
+        font-weight: 600
+    }
+
+    .banner-content-ecommerce {
+        padding: 0 9px
+    }
+
+    .design_devlopment.section .design_text {
+        margin-top: 0;
+        margin-bottom: 20px;
+        padding: 0 10px;
+        max-width: 100%
+    }
+
+    .wordpress_devlopment.section .design_text {
+        padding: 0 10px
+    }
+
+    .design_devlopment.e-com-top2.section {
+        padding-top: 50px
+    }
+
+    .ecommerce_development.section .design_text,
+    .shopify_dev .design_text {
+        padding: 0 10px
+    }
+
+    .appBanner.section .headings h2:after {
+        background: 0 0;
+        right: 90px;
+        width: 100px
+    }
+
+    .appBanner.section .headings h2:before {
+        content: "";
+        background: url(../images/e-line.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .innerBanner.mobile_appbanner {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        width: 100%
+    }
+
+    .innerBanner.desktop_appbanner {
+        display: none
+    }
+
+    .hybird_appdevelopment.section .hybird_box {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px
+    }
+
+    .hybird_box:before {
+        position: absolute;
+        content: "";
+        width: 100px;
+        background: #707070;
+        height: 1px;
+        left: 13px;
+        bottom: 0
+    }
+
+    .work_page2.testimonials_page h1:before {
+        content: "";
+        background: url(../images/e-line1.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .work_page2.testimonials_page h1:after {
+        position: static;
+        background: 0 0;
+        content: "";
+        left: inherit;
+        width: auto
+    }
+
+    .custom-navbar li img {
+        width: auto;
+        height: 32px
+    }
+
+    .banner-content-ecommerce.enterprise-app h2 {
+        text-align: center;
+        display: block
+    }
+
+    .banner-content-ecommerce.enterprise-app h1 {
+        font-size: 29px;
+        line-height: 36px;
+        text-align: center
+    }
+
+    .banner-content-ecommerce.enterprise-app h2:after {
+        content: "";
+        background: url("../images/e-line.svg") no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .banner-content-ecommerce.enterprise-app h2:before {
+        left: 0;
+        left: 60px;
+        content: "";
+        width: auto;
+        background: 0 0
+    }
+
+    .enterprises_page .bg_blue.section {
+        background: #66acdc;
+        overflow: inherit;
+        padding-top: 30px;
+        padding-bottom: 15px
+    }
+
+    .banner.bg_blue.section .enterpriesesBanner {
+        position: static;
+        right: 0;
+        max-width: 100%;
+        bottom: 0;
+        margin-top: 40px
+    }
+
+    .desktop-content {
+        display: none
+    }
+
+    .enter-mobile-content {
+        display: block;
+        margin: 30px 0
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0
+    }
+
+    .enter-mobile-content p {
+        font-size: 14px;
+        line-height: 26px;
+        color: #000
+    }
+
+    .enterprieses_design_text p {
+        font-size: 18px;
+        color: #1a1a1a;
+        margin-bottom: 50px;
+        font-family: 'Roboto Slab', serif;
+        line-height: 30px
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .custom_web_text h4 {
+        font-size: 17px;
+        font-weight: 700;
+        color: #191919;
+        padding-right: 30px
+    }
+
+    .design_devlopment.section.erp-manfacturing {
+        padding-top: 40px;
+        padding-bottom: 20px
+    }
+
+    .design_devlopment.section.erp-manfacturing .slider_right {
+        margin-top: 10px
+    }
+
+    .wordpress_devlopment.web_App.section {
+        padding-top: 60px;
+        padding-bottom: 40px
+    }
+
+    .wordpress_devlopment.web_App.section h2 {
+        margin-bottom: 10px
+    }
+
+    .marketing_text h1 {
+        color: #fff;
+        display: block;
+        position: relative;
+        padding: 0 0 35px;
+        font-size: 24px;
+        text-align: center
+    }
+
+    .marketing_text h1:before {
+        content: "";
+        background: url("../images/e-line.svg") no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .marketing_text h1:after {
+        background: 0 0
+    }
+
+    .marketing_text {
+        padding: 0 10px
+    }
+
+    .making_brands p {
+        line-height: 26px;
+        font-weight: 300;
+        font-size: 14px
+    }
+
+    .seo_right_text.mobile-content p {
+        color: #000;
+        font-size: 14px;
+        line-height: 26px;
+        font-weight: 400
+    }
+
+    .seo_right_text.mobile-content {
+        margin-top: 70px
+    }
+
+    .marketing_solution.section .col-6:nth-child(3) {
+        display: none
+    }
+
+    .marketing_box p {
+        color: #333;
+        font-weight: 700;
+        font-size: 18px;
+        margin: 10px 0 30px;
+        line-height: 23px
+    }
+
+    .marketing_box {
+        border-bottom: 1px solid #b7b7b7;
+        margin-right: 20px;
+        min-height: 150px
+    }
+
+    
+
+    .red_box h2 {
+        font-size: 30px;
+        max-width: 355px;
+        color: #fff;
+        margin-bottom: 35px;
+        line-height: 36px
+    }
+
+    .color_boxes p {
+        max-width: 100%;
+        color: #fff;
+        line-height: 30px;
+        font-weight: 300;
+        font-size: 18px;
+        position: relative;
+        z-index: 1
+    }
+
+    .red_box a.btn img {
+        max-width: inherit
+    }
+
+    .red_box a.btn {
+        padding: 0;
+        position: static;
+        bottom: 40px;
+        margin: 40px 0 30px
+    }
+
+    .red_box.green_box p {
+        max-width: 100%
+    }
+
+    .red_box.yellow_box p {
+        max-width: 100%
+    }
+
+    .red_box.black_box p {
+        max-width: 100%
+    }
+
+    .digital_experience.section {
+      
+        padding-bottom: 20px;
+        padding-top: 50px
+    }
+
+    .experience_details .col-sm-6 {
+        padding: 8px 8px
+    }
+
+    .wht_box h4 {
+        margin-top: 15px;
+        color: #1a1a1a;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 15px
+    }
+
+    .experience_details {
+        padding: 0 15px;
+        margin-top: 40px;
+        margin-bottom: 35px
+    }
+
+    .wht_box img {
+        width: 50px;
+        object-fit: contain
+    }
+
+    .roohAfza.section .container {
+        padding: 0
+    }
+
+    .work_page .roohAfza.section .owl-carousel {
+        padding: 0
+    }
+
+    .viws_box {
+        padding: 18px 50px 0
+    }
+
+    .viws_box small {
+        display: block;
+        font-size: 16px;
+        color: #000;
+        font-family: Montserrat, sans-serif
+    }
+
+    .viws_box h2 {
+        font-weight: 800;
+        color: #000;
+        font-size: 60px
+    }
+
+    .impression h4 {
+        font-size: 30px;
+        font-weight: 800;
+        color: #000;
+        letter-spacing: .5px;
+        line-height: 30px;
+        margin: 40px 0
+    }
+
+    .impression {
+        position: relative;
+        right: 0;
+        background: #fff;
+        padding: 0;
+        bottom: 0;
+        top: 0;
+        height: inherit;
+        max-width: 100%;
+        float: none;
+        padding-bottom: 90px
+    }
+
+    .work_page .impression .owl-carousel .owl-nav.disabled {
+        display: block;
+        position: absolute;
+        bottom: -66px;
+        left: 54px;
+        top: inherit
+    }
+
+    .interactive.video_serivces.section h3:before {
+        content: "";
+        background: url(../images/e-line.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .interactive.video_serivces.section {
+        background: #004bae;
+        margin-top: 55px;
+        padding-top: 30px
+    }
+
+    .interactive.video_serivces.section .making_brands p {
+        max-width: 100%
+    }
+
+    .interactive.video_serivces.section h2 {
+        text-align: center;
+        font-size: 30px;
+        padding: 0 19px;
+        margin-top: 10px
+    }
+
+    .new_media_Image img {
+        max-width: 100%
+    }
+
+    .corporate_video.media_page.section {
+        padding: 50px 0 90px
+    }
+
+    .corporate_video.media_page.section p {
+        font-size: 14px
+    }
+
+    .corporate_video .presentation_text h2 {
+        font-size: 30px
+    }
+
+    .power_presentation.media_page.section p {
+        font-size: 14px;
+        line-height: 26px
+    }
+
+    .power_presentation.media_page.section .presentation_text {
+        padding: 0 10px
+    }
+
+    .corporate_video.media_page.section .presentation_text {
+        padding: 0 10px
+    }
+
+    .interactive.paid_marketing.smm-section1.section {
+        background: #2b85cc;
+        margin-top: 55px;
+        padding-top: 30px
+    }
+
+    .interactive.paid_marketing.smm-section1.section .marketing_text h1:before {
+        content: "";
+        background: url(../images/e-line.svg);
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center;
+        background-repeat: no-repeat !important
+    }
+
+    .interactive.paid_marketing.smm-section1.section .marketing_text h1:after {
+        display: none
+    }
+
+    .interactive.paid_marketing.smm-section1.section h2 {
+        font-size: 29px;
+        margin-top: 0;
+        margin-bottom: 0
+    }
+
+    .interactive.paid_marketing.smm-section1.section p {
+        padding-right: 0;
+        width: 100%
+    }
+
+    .mobile-content {
+        display: block
+    }
+
+    .interactive.paid_marketing.smm-section1.section .paid_market_Image {
+        max-width: 100%;
+        bottom: -18px;
+        right: -8px;
+        position: relative;
+        overflow: hidden
+    }
+
+    .smm-wht-we-do {
+        clear: both;
+        padding: 30px 0 0
+    }
+
+    .smm-mobile-content.mobile-content {
+        padding: 0 10px
+    }
+
+    .smm-mobile-content.mobile-content p {
+        font-size: 14px;
+        line-height: 26px
+    }
+
+    .smm-wht-we-do h1 {
+        margin: 50px 9px;
+        color: #2b4456;
+        font-size: 30px;
+        font-weight: 800
+    }
+
+    .green-bg-smm {
+        background: 0 0;
+        padding: 10px
+    }
+
+    .green-bg-smm h2 {
+        font-size: 17px;
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #000;
+        min-height: 75px
+    }
+
+    .green-bg-smm img {
+        height: 60px;
+        max-width: 100%;
+        margin-bottom: 31px
+    }
+
+    .green-bg-smm p {
+        display: none
+    }
+
+    .why_choose.section.smm-why-choose {
+        background: 0 0;
+        padding: 0 10px 10px
+    }
+
+    .why_choose.section.smm-why-choose h2 {
+        color: #2b4456;
+        margin-bottom: 60px;
+        font-size: 30px;
+        font-weight: 800;
+        margin-top: 35px
+    }
+
+    .why_choose.section.smm-why-choose p {
+        color: #000;
+        border-color: #000;
+        padding-left: 23px;
+        font-size: 14px;
+        font-weight: 500
+    }
+
+    .why_choose.section.smm-why-choose .col-md-4 {
+        margin-bottom: 23px
+    }
+
+    .maintain_box:before {
+        position: absolute;
+        left: 0;
+        color: #6dacde;
+        font-size: 23px;
+        top: 28px;
+        font-weight: 600
+    }
+
+    .ssm-view {
+        margin: 20px 0 30px;
+        text-align: center
+    }
+
+    .why_choose.section.smm-why-choose .maintain_box {
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0
+    }
+
+    .interactive.paid_marketing.smm-section1.section .paid_marketing .making_brands {
+        padding-bottom: 0
+    }
+
+    .interactive.paid_marketing.sem-panel1.section .marketing_text h1:before {
+        content: "";
+        background: url(../images/e-line2.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .interactive.paid_marketing.sem-panel1.section {
+        margin-top: 55px;
+        padding-top: 30px;
+        padding-bottom: 190px
+    }
+
+    .interactive.paid_marketing.sem-panel1.section h2 {
+        font-size: 30px;
+        margin: 0 0 40px
+    }
+
+    .interactive.paid_marketing.sem-panel1.section img {
+        max-width: inherit
+    }
+
+    .interactive.paid_marketing.sem-panel1.section .paid_market_Image {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        max-width: 100%
+    }
+
+    .sem-mobile-content.mobile-content {
+        clear: both;
+        padding: 40px 10px
+    }
+
+    .sem-mobile-content.mobile-content p {
+        font-size: 14px;
+        line-height: 28px;
+        color: #000
+    }
+
+    .lead_base.section {
+        background: #f6f3e8;
+        padding: 50px 0 150px
+    }
+
+    .lead_base h2 {
+        text-align: center;
+        font-size: 30px;
+        color: #2b4456;
+        font-weight: 800;
+        margin-bottom: 50px
+    }
+
+    .principal {
+        background: #fcca02
+    }
+
+    .principal_text strong {
+        font-weight: 700;
+        color: #2b4456;
+        font-size: 30px;
+        display: block;
+        margin-bottom: 30px;
+        font-family: 'Roboto Slab', serif
+    }
+
+    .principal_text h2 {
+        font-size: 35px;
+        color: #000
+    }
+
+    .principal_img {
+        padding: 0 0 30px 0;
+        margin-top: -83px
+    }
+
+    ul.industry_type {
+        margin-top: 20px;
+        float: none;
+        text-align: center;
+        padding: 0 40px 40px;
+        display: block;
+        margin-bottom: 0
+    }
+
+    .project_images_box .our_Diary_date {
+        max-width: 100%
+    }
+
+    .our-client-logo p {
+        font-size: 14px;
+        color: #202020;
+        padding-right: 0;
+        line-height: 28px
+    }
+
+    .our-client-logo h4 {
+        padding: 40px 0 20px;
+        clear: both;
+        font-size: 30px;
+        color: #2b4456;
+        font-weight: 700;
+        text-align: center
+    }
+
+    .our-client-logo ul li {
+        float: left;
+        border: 1px solid #ddd;
+        width: 33%;
+        border-top: 0;
+        border-left: 0
+    }
+
+    .our-client-logo ul li:nth-child(5n) {
+        border-right: 1px solid #ddd
+    }
+
+    .our-client-logo ul li:nth-child(3n) {
+        border-right: 0px
+    }
+
+    .request-quote {
+        background: #f9f9f9;
+        box-shadow: 1px 1px 1px rgb(0 0 0 / 16%);
+        padding: 35px 20px;
+        position: static
+    }
+
+    .testimonials_clients {
+        float: left;
+        width: 100%;
+        position: relative;
+        margin-bottom: 20px
+    }
+
+    .testimonialsText {
+        position: static;
+        bottom: 0;
+        padding: 15px 30px;
+        background: #2b4456;
+        left: 0;
+        width: 100%;
+        text-align: left
+    }
+
+    a.youTube_btn {
+        position: absolute;
+        bottom: 38%;
+        right: 6px
+    }
+
+    .testimonials_clients button.close {
+        position: absolute;
+        background: #fff;
+        width: 30px;
+        height: 30px;
+        z-index: 9999;
+        border-radius: 30px;
+        top: -17px;
+        right: 0;
+        opacity: 1
+    }
+
+    .news-bg {
+        background: #ddd;
+        width: 100%;
+        height: 343px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 25px
+    }
+
+    .work_testify.testimonials_page h1:after {
+        content: "";
+        background: url(../images/e-line1.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .work_testify.testimonials_page h1:before {
+        display: none
+    }
+
+    .work-slide-bg {
+        background: #fcca01;
+        padding: 24px 24px;
+        border-radius: 35px
+    }
+
+    .carrer-name {
+        clear: both;
+        padding: 69px 0;
+        display: block
+    }
+
+    .apply-now-panel h4 {
+        margin: 80px 0 35px;
+        font-size: 28px
+    }
+
+    .employe-img {
+        max-width: 65%;
+        margin-bottom: 40px
+    }
+
+    .work-slide-bg h3 {
+        margin-top: 60px;
+        font-weight: 300;
+        margin-bottom: 50px;
+        font-size: 18px;
+        line-height: 28px
+    }
+
+    .work-slide-bg .quote {
+        position: absolute;
+        top: -70px;
+        left: 55px
+    }
+
+    .work-slide-bg .owl-dots {
+        display: block;
+        position: absolute;
+        top: -27px;
+        right: -3px
+    }
+
+    .work-career {
+        padding: 50px 10px
+    }
+
+    .work-career h2 {
+        margin-bottom: 35px;
+        font-weight: 700;
+        font-size: 30px
+    }
+
+    .work-career h3 {
+        font-size: 18px;
+        line-height: 30px;
+        font-weight: 400;
+        font-family: Montserrat, sans-serif;
+        margin-bottom: 30px;
+        color: #000
+    }
+
+    .work-career p {
+        font-size: 14px;
+        line-height: 26px
+    }
+
+    .work-section-2 {
+        background: #6dacde;
+        padding: 45px 20px;
+        text-align: center;
+        order: 2
+    }
+
+    .work-section-2 p {
+        color: #fff;
+        font-size: 18px;
+        line-height: 30px
+    }
+
+    .work-section1 {
+        clear: both;
+        padding: 150px 0 0
+    }
+
+    .work-section-4 p {
+        margin-bottom: 60px;
+        color: #333;
+        padding: 0;
+        font-size: 14px;
+        line-height: 26px
+    }
+
+    .work-section-4 {
+        background: #ecf8f9 url(../images/life-bg.svg) no-repeat;
+        background-position: top;
+        width: 100%;
+        padding: 50px 20px 20px;
+        text-align: center;
+        order: 1
+    }
+
+    .work-section-4 .owl-dots button.owl-dot {
+        background: #6dacde;
+        width: 10px;
+        height: 10px;
+        margin: 5px;
+        border-radius: 100%;
+        margin-top: 0
+    }
+
+    .work-section-3 p {
+        text-align: center;
+        margin-bottom: 60px;
+        color: #4c4c4c;
+        padding: 0
+    }
+
+    .work-section-3 h3 {
+        text-align: center;
+        margin-bottom: 40px;
+        font-family: Montserrat, sans-serif;
+        font-size: 18px;
+        color: #202020;
+        line-height: 28px
+    }
+
+    .row.work-group {
+        display: flex;
+        margin: 0
+    }
+
+    .work-section-3 {
+        padding: 60px 0 40px;
+        order: 3
+    }
+
+    .exp-year {
+        position: static;
+        margin: 50px 0 0
+    }
+
+    .work-section-3 .green-bg2 {
+        background: #dafafa;
+        padding: 30px;
+        min-height: inherit
+    }
+
+    .our_projects.blog_panel.section .project_images_box .our_Diary_date {
+        max-width: 100%
+    }
+
+    .blog-head h2 {
+        color: #2b4456;
+        font-size: 30px;
+        font-weight: 700;
+        padding-right: 0;
+        margin-bottom: 65px;
+        text-align: center
+    }
+
+    .blog-head .date {
+        font-size: 14px;
+        font-weight: 700;
+        margin-bottom: 25px;
+        text-align: center
+    }
+
+    .blog-detail-1 .blue-bg {
+        background: #183346;
+        padding: 50px 0 60px;
+        text-align: center
+    }
+
+    .blog-content2 {
+        padding: 50px 10px
+    }
+
+    .blog-detail2 p {
+        font-size: 14px;
+        line-height: 26px;
+        padding-right: 0;
+        color: #000
+    }
+
+    .img-blog-1 {
+        margin-top: 0
+    }
+
+    .blog-detail2 {
+        padding: 0 10px
+    }
+
+    .blog-detail2 h2 {
+        text-align: left;
+        margin-bottom: 30px
+    }
+
+    .blog-detail2 h3 {
+        font-size: 26px;
+        margin-bottom: 50px
+    }
+
+    .blog-3 {
+        margin: 35px 0
+    }
+
+    .blog-3 h4 {
+        font-size: 24px;
+        margin-bottom: 30px;
+        font-weight: 700;
+        color: #2b4456
+    }
+
+    .img-blog-3 {
+        margin-bottom: 30px
+    }
+
+    .blue-quote {
+        text-align: center;
+        margin: 45px 0 50px;
+        background: #616bc9;
+        padding: 30px 30px 40px
+    }
+
+    .blue-quote p {
+        color: #fff
+    }
+
+    .bacl-listing a {
+        background: #6dacde;
+        padding: 7px 14px;
+        border-radius: 20px;
+        color: #fff;
+        font-size: 13px;
+        text-decoration: none
+    }
+
+    .share-this {
+        display: inline-block;
+        margin: 0 6px
+    }
+
+    .share-this a {
+        background: #2b4456;
+        color: #fff;
+        padding: 7px 18px;
+        border-radius: 20px;
+        font-size: 13px;
+        text-decoration: none
+    }
+
+    .work_page .blog-slider .owl-nav button.owl-next span {
+        background: inherit;
+        border: 0
+    }
+
+    .work_page .blog-slider .owl-nav button.owl-next span:after {
+        content: "Next Article";
+        font-size: 12px;
+        position: absolute;
+        right: 41px;
+        top: 4px;
+        font-weight: 500
+    }
+
+    .form-slide {
+        display: none
+    }
+
+    .news-head h2 {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+        padding-right: 0;
+        margin-bottom: 65px
+    }
+
+    .news-head .date {
+        font-size: 14px;
+        font-weight: 700;
+        margin-bottom: 25px;
+        text-align: center
+    }
+
+    .red-bg {
+        background: #ed1c24;
+        padding: 50px 10px
+    }
+
+    .news-content2 {
+        margin: 40px 0 66px;
+        width: 100%;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 38px
+    }
+
+    .img-new-1 {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        margin-top: 0;
+        display: none
+    }
+
+    .img-new-2 {
+        display: none;
+        width: 100%;
+        margin-top: 0
+    }
+
+    .img-new-1.mobile-content {
+        display: block;
+        text-align: center;
+        margin: 40px 0 0
+    }
+
+    .button-back {
+        text-align: center
+    }
+
+    .interactive.new-interactive.section .col-md-6.making_img img {
+        max-width: 100%;
+        margin-top: 25px
+    }
+
+    .interactive.new-interactive.section {
+        margin-top: 55px;
+        padding-top: 35px
+    }
+
+    .interactive.new-interactive.section h2 {
+        font-size: 29px;
+        line-height: 36px;
+        margin-top: 0;
+        margin-bottom: 0
+    }
+
+    .interactive.new-interactive.section .marketing_text h1:before {
+        content: "";
+        background: url(../images/e-line.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .corporate.section.new-interactive2 {
+        padding-top: 35px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 30px
+    }
+
+    .corporate_text p {
+        font-size: 14px;
+        color: #000;
+        line-height: 26px
+    }
+
+    .interactive_presentation .presentation_text {
+        max-width: 100%;
+        padding: 0 10px
+    }
+
+    .interactive_presentation .presentation_text p {
+        font-size: 14px;
+        color: #1a1a1a;
+        max-width: 100%;
+        margin-top: 20px;
+        line-height: 28px
+    }
+
+    .presentation_text p {
+        font-size: 14px;
+        color: #1a1a1a;
+        max-width: 780px;
+        margin-top: 20px;
+        line-height: 26px
+    }
+
+    .power_presentation .presentation_text {
+        max-width: 100%;
+        padding: 0 10px
+    }
+
+    .interactive.branding_Solutions.section h3:before {
+        content: "";
+        background: url(../images/e-line.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .interactive.branding_Solutions.section .branding_img img {
+        max-width: 100%
+    }
+
+    .interactive.branding_Solutions.section .col-md-6.branding_text p {
+        max-width: 100%;
+        line-height: 28px
+    }
+
+    .interactive.branding_Solutions.section .branding_text h2 {
+        font-size: 30px;
+        text-align: center
+    }
+
+    .interactive.branding_Solutions.section .branding_text {
+        padding-bottom: 0
+    }
+
+    .corporate_video.section {
+        padding-bottom: 90px;
+        padding-top: 45px
+    }
+
+    .corporate_video .presentation_text {
+        max-width: 100%;
+        padding: 0 10px
+    }
+
+    .corporate_video .presentation_text p {
+        line-height: 26px
+    }
+
+    .interactive.branding_Solutions.section {
+        margin-top: 55px;
+        padding-top: 30px
+    }
+
+    .interactive.video_page.section {
+        overflow: hidden;
+        margin-top: 55px;
+        padding-top: 30px
+    }
+
+    .interactive.video_page.section h2 {
+        padding: 0 0;
+        font-size: 30px
+    }
+
+    .interactive.video_page.section .marketing_text h1:before {
+        content: "";
+        background: url(../images/e-line2.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .video_page .making_brands p {
+        font-size: 14px;
+        letter-spacing: 0
+    }
+
+    .interactive.video_serivces.section h2 {
+        text-align: center;
+        font-size: 30px;
+        padding: 0 0;
+        margin-top: 10px
+    }
+
+    .trained.section {
+        position: relative;
+        background: #f9f9f9;
+        margin-top: 40px;
+        z-index: -1;
+        padding-top: 0;
+        padding-bottom: 50px
+    }
+
+    .seo_page.section.seo-panel1 {
+        margin-top: 55px
+    }
+
+    .seo_page h2 {
+        font-size: 30px;
+        color: #fff;
+        margin-top: 50px;
+        text-align: center
+    }
+
+    .seo_page.section .marketing_text h1:before {
+        content: "";
+        background: url(../images/e-line.svg) no-repeat;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        left: 0;
+        right: 0;
+        background-position: center
+    }
+
+    .why_choose.section p {
+        font-size: 14px;
+        line-height: 26px
+    }
+
+    .why_choose.section h2 {
+        font-size: 30px;
+        margin-bottom: 30px
+    }
+
+    .seo_projects_box p {
+        font-weight: 700;
+        color: #333;
+        margin: 0;
+        font-size: 18px;
+        line-height: 28px
+    }
+
+    .why_choose {
+        background: #2b4456;
+        color: #fff;
+        padding-top: 60px;
+        padding-bottom: 40px;
+        padding-left: 10px;
+        padding-right: 10px
+    }
+
+    .our-client-logo ul li img {
+        max-width: 100%
+    }
+
+    .red_box.contant_black_box {
+        background: #445ddb;
+        padding: 54px 40px
+    }
+
+    .campaign-boxes {
+        max-width: 100%;
+        position: static;
+        right: 50px;
+        background: #fff;
+        padding: 0;
+        top: 0;
+        height: 100%
+    }
+
+    .project_images.section .more_testimonials ul li {
+        float: left;
+        width: 100%
+    }
+
+    .our_clients.section .more_testimonials li {
+        width: 30%;
+        margin-right: 9px;
+        max-width: 40%;
+        height: inherit;
+        line-height: inherit
+    }
+
+    .mobile-seo-panel.mobile-content .card-header {
+        padding: 0
+    }
+
+    .mobile-seo-panel.mobile-content {
+        margin-top: 60px
+    }
+
+    .mobile-seo-panel.mobile-content .card {
+        border: 0
+    }
+
+    .mobile-seo-panel.mobile-content .card-body {
+        background: #f9f9f9
+    }
+
+    .trained.section .container {
+        padding: 0
+    }
+
+    .mobile-seo-panel.mobile-content .card-header a.card-link {
+        color: #fff
+    }
+
+    .mobile-seo-panel.mobile-content a.card-link.collapsed {
+        background: #fff;
+        display: block;
+        color: #000;
+        font-size: 14px;
+        border: 0;
+        border-radius: 0;
+        padding: 16px 25px
+    }
+
+    .mobile-seo-panel.mobile-content a.card-link {
+        display: block;
+        color: #000;
+        background: #6dacde;
+        font-size: 14px;
+        border: 0;
+        border-radius: 0;
+        padding: 16px 25px;
+        font-weight: 700
+    }
+
+    .process_seo1 p {
+        font-size: 14px;
+        color: #000;
+        line-height: 26px;
+        margin: 30px 10px
+    }
+
+    .process_seo1 .img_box1 {
+        margin: 50px 0;
+        padding: 0 20px
+    }
+
+    .trained_tab p {
+        color: #000;
+        font-size: 18px;
+        line-height: 30px
+    }
+
+    .our_clients.section .clients_logo li img {
+        max-width: 78%
+    }
+
+    .company_text.col-md-6 .owl-carousel {
+        width: 55%;
+        margin: auto
+    }
+
+    body.home_page .our_clients.section .clients_logo li {
+        margin-right: 2px;
+        width: 32%;
+        padding: 0;
+        margin-bottom: 6px
+    }
+
+    body.home_page .our_clients.section .clients_logo li:nth-child(5n) {
+        margin-right: 6px
+    }
+
+    .our-client-logo ul li:nth-child(4n) {
+        border-right: 1px solid #ddd
+    }
+
+    .our-client-logo ul li:nth-child(3n) {
+        border-right: 0px
+    }
+
+    .strgey-number ul li {
+        width: 48%;
+        display: inline-block;
+        vertical-align: middle;
+        margin-bottom: 30px;
+        margin-right: 0
+    }
+
+    .wordpress_devlopment.magento_dev.section .design_text h2 img {
+        max-width: 100%
+    }
+
+    .ecommerce_development.section .design_text h2 img {
+        max-width: 90%
+    }
+
+    .shopify_dev.section .design_text h2 {
+        margin-bottom: 30px;
+        font-weight: 700;
+        font-size: 37px
+    }
+
+    .testimonials_clients button {
+        padding: 0
+    }
+
+    .work-slide-bg h5 span:nth-child(1) {
+        font-weight: 700;
+        width: 100%;
+        display: inline-block;
+        margin-bottom: 5px
+    }
+
+    .service-col h5 {
+        margin: 20px 0;
+        color: #333;
+        font-size: 18px
+    }
+
+    .service-col {
+        width: 100%;
+        display: inline-block;
+        vertical-align: top
+    }
+
+    .service-col label.css-label span {
+        display: inline-block;
+        font-size: 14px;
+        color: #333;
+        vertical-align: top;
+        cursor: pointer
+    }
+
+    .new-top-detail {
+        width: 100%;
+        display: inline-block;
+        vertical-align: top;
+        padding: 50px 0 0
+    }
+
+    .post.type-post {
+        display: inline-block;
+        width: 49%;
+        vertical-align: top
+    }
+
+    .work-slide-bg span:nth-child(2) {
+        width: 100%;
+        display: inline-block;
+        vertical-align: top
+    }
+
+    .service-col input.css-checkbox {
+        display: inline-block;
+        width: 8%;
+        height: 20px
+    }
+
+    .digital5.desktop-view .col-md-3 {
+        display: none
+    }
+
+    .digital5.mobile-view .col-md-3 {
+        display: block;
+        margin-bottom: 70px;
+        margin-top: 45px
+    }
+
+    .our_work.btn {
+        text-align: center;
+        display: block;
+        margin-bottom: 30px
+    }
+
+    .our_work.btn {
+        text-align: center;
+        display: block;
+        margin-bottom: 30px;
+        font-size: 26px;
+        font-weight: 700;
+        color: #1a1a1a;
+        font-family: 'Roboto Slab', serif
+    }
+
+    .our_work.btn a:hover {
+        border: 2px solid #6dacde;
+        color: #6dacde;
+        background: 0 0
+    }
+
+    a.btn.desk-btn {
+        display: none
+    }
+
+    .mobile-btn-panel {
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin: 40px 0 0
+    }
+
+    a.btn.mobile-btn {
+        border: 2px solid #fff;
+        border-radius: 25px;
+        padding: 8px 35px;
+        margin-top: 20px;
+        text-transform: uppercase;
+        color: #fff;
+        font-weight: 800;
+        font-size: 12px;
+        letter-spacing: 2px
+    }
+
+    .new-icon {
+        width: 150px
+    }
+
+    a.query-btn.continue.thnk_u {
+        margin-bottom: 150px
+    }
+
+    .jquery-accordion-menu ul ul.submenu ul li a {
+        padding: 7px 24px;
+        text-transform: capitalize;
+        font-size: 13px
+    }
+
+    div#jquery-accordion-menu1 ul ul.submenu ul {
+        padding-bottom: 12px;
+        margin-bottom: 0
+    }
+
+    div#jquery-accordion-menu1 ul ul {
+        background: #0f507d;
+        margin-bottom: 25px
+    }
+
+    .jquery-accordion-menu ul ul.submenu ul li a {
+        border: 0
+    }
+
+    .jquery-accordion-menu ul ul.submenu li:nth-child(2) a {
+        border: 0
+    }
+
+    .jquery-accordion-menu ul ul.submenu li:nth-child(3) a {
+        border: 0
+    }
+
+    .jquery-accordion-menu ul ul.submenu li:nth-child(2) ul {
+        border-bottom: 1px solid rgb(255 255 255 / 11%)
+    }
+
+    .jquery-accordion-menu ul ul.submenu li:nth-child(3) ul {
+        border-bottom: 1px solid rgb(255 255 255 / 11%)
+    }
+
+    a.ser-pad {
+        padding-top: 0 !important
+    }
+
+    .mobile_device2 li.nav-item:last-child {
+        margin-right: 0;
+        padding-bottom: 80px
+    }
+
+    div#jquery-accordion-menu1 ul {
+        width: 100%
+    }
+
+    div#jquery-accordion-menu1 ul li {
+        width: 100%;
+        display: block;
+        float: none;
+        position: relative
+    }
+
+    div#jquery-accordion-menu1 {
+        display: block
+    }
+
+    div#jquery-accordion-menu1 ul {
+        padding: 0
+    }
+
+    ul.agency_box.eLearning_box li:nth-child(2) h3 {
+        display: none
+    }
+
+    ul.agency_box.eLearning_box li:nth-child(4) h3 {
+        display: none
+    }
+
+    ul.agency_box.eLearning_box li:nth-child(2n) p {
+        padding-top: 10px
+    }
+
+    .zsiq_theme1.zsiq_floatmain {
+        width: 60px;
+        max-height: 60px;
+        display: none !important
+    }
+
+    .sitemap-menu.second-pages {
+        border-left: 10px solid #6dacde;
+        margin-left: 0
+    }
+
+    .sitemap {
+        padding: 70px 20px;
+        clear: both
+    }
+
+    .sitemap-menu {
+        padding-left: 20px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .contact-panel-1 .col-md-4 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .contact-panel-1 .col-md-8 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .news-detail-1 .col-md-5 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .testimonials_clients {
+        float: left;
+        width: 48%;
+        position: relative;
+        margin-bottom: 20px;
+        margin-right: 10px
+    }
+
+    .work_testify.testimonials_page.section {
+        margin-top: 96px
+    }
+
+    .work_testify.testimonials_page.section h2 br {
+        display: none
+    }
+
+    .apply-now-panel h4 {
+        margin: 110px 0 35px;
+        font-size: 28px
+    }
+
+    .news-panel-section .col-md-12 {
+        border-bottom: 1px solid #ddd;
+        padding: 30px 0;
+        margin: 0 0 15px
+    }
+
+    .work-detail-structure {
+        padding-top: 50px
+    }
+
+    .work-section-3 .green-bg2 h4 {
+        font-size: 22px;
+        font-family: Montserrat, sans-serif;
+        font-weight: 700
+    }
+
+    .work-section1 .col-md-5 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .work-section1 .col-md-7 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .employe-img {
+        max-width: 39%;
+        margin-bottom: 40px
+    }
+
+    .technology_logo ul li:nth-child(2n) {
+        border-right: 1px solid #ddd !important
+    }
+
+    .technology_logo li:last-child {
+        display: none
+    }
+
+    .technology_logo ul li {
+        width: 34%
+    }
+
+    .bottom_para {
+        padding: 40px 15px 10px;
+        text-align: left;
+        position: static
+    }
+
+    .company_text.col-md-6 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    ul.industry_type {
+        margin-top: 33px;
+        float: none;
+        text-align: center;
+        padding: 0 10px 19px;
+        display: block;
+        margin-bottom: 0
+    }
+
+    .custom-navbar li {
+        margin-right: 14px
+    }
+
+    .work_page2.testimonials_page.section.work-pan {
+        display: block;
+        padding-top: 30px
+    }
+
+    .interactive.branding_Solutions.section .col-md-6.branding_text {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .col-md-5.making_brands {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%
+    }
+
+    .col-md-6.making_img {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .interactive.video_serivces.section .col-md-7 {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%
+    }
+
+    .banner.bg_blue.section.enterprise-bg .col-md-6 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .col-md-5.making_brands {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%
+    }
+
+    .main_mobileApp p {
+        padding: 0 0 40px
+    }
+
+    .lead_base_boxes li {
+        width: 30%;
+        margin: 9px;
+        padding: 20px;
+        text-align: center
+    }
+
+    .hybirdImage_box {
+        min-height: 170px;
+        line-height: initial;
+        text-align: center
+    }
+
+    .principal .col-md-5,
+    .principal .col-md-7 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .paid_market_Image img {
+        max-width: 100%
+    }
+
+    .social_icons .pull-right {
+        float: none;
+        text-align: right;
+        margin-top: 0 !important
+    }
+
+    .seo_projects_box p {
+        font-size: 16px
+    }
+
+    .seo_projects.section {
+        padding-bottom: 50px
+    }
+
+    .col-md-6.making_brands {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .compaining h3 {
+        padding: 60px 0;
+        text-align: center
+    }
+
+    .marketing_text.seoMarketing .col-md-6 {
+        max-width: 100%;
+        flex: 0 0 100%;
+        -ms-flex: 0 0 100%
+    }
+
+    .seo_right_text.mobile-content {
+        margin-top: 0
+    }
+
+    .red_box.contant_black_box p {
+        font-size: 22px
+    }
+
+    .wht_box {
+        min-height: 200px
+    }
+
+    .seo_img {
+        position: static;
+        bottom: 0;
+        left: 0;
+        overflow: hidden;
+        width: 100%
+    }
+
+    .seo_img img {
+        max-width: 100%
+    }
+
+    .digital_marketing.section {
+        height: auto;
+        margin-top: 55px;
+        padding-bottom: 0
+    }
+
+    .banner.bg_blue.section.e-com-top .col-md-6 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+
+    .ecom-mobile {
+        display: block;
+        max-width: 100%;
+        position: relative;
+        top: 0;
+        z-index: 9;
+        left: 0
+    }
+
+    .banner.bg_blue.section.e-com-top p {
+        max-width: 100%
+    }
+
+    .digital-content-panel {
+        padding: 0
+    }
+
+    .project_box {
+        margin-right: 26px
+    }
+
+    .corporate_video .slider_right,
+    .interactive_presentation .slider_right,
+    .power_presentation .slider_right {
+        float: none;
+        max-width: 100%;
+        margin: auto;
+        margin-top: 30px
+    }
+
+    .digital-content-panel h3 {
+        font-size: 21px;
+        margin-bottom: 50px
+    }
+
+    .digital-content-panel h3:after {
+        bottom: -25px
+    }
+
+    .heading1 {
+        top: 27%
+    }
+
+    .new_media ul.nav.nav-fill.navtop:after,
+    .new_media ul.nav.nav-fill.navtop:before,
+    .technology_Works:after,
+    .technology_Works:before {
+        display: none
+    }
+
+    .technical_Section,
+    p.development_services {
+        padding: 0
+    }
+
+    p.development_services {
+        font-size: 13px;
+        line-height: 24px
+    }
+
+    .tabContentMian h2 {
+        font-size: 36px
+    }
+
+    div#menu1:before {
+        width: 90%
+    }
+
+    .banner_sectionTab {
+        padding-top: 10px
+    }
+
+    .agency_boxes p {
+        font-size: 14px;
+        max-width: 100%
+    }
+
+    .banner_sectionTab h3 {
+        font-size: 32px
+    }
+
+    .partners_logo.desktop_device_logo {
+        text-align: left
+    }
+
+    .new_media.section {
+        padding-bottom: 20px
+    }
+
+    .experience_box {
+        position: absolute;
+        bottom: inherit;
+        left: 17%;
+        transform: translate(0, -50%);
+        background: #fff;
+        padding: 50px;
+        top: 75%
+    }
+
+    .experience_box img {
+        max-width: 170px
+    }
+
+    .experience_box p {
+        display: none
+    }
+
+    .experience_box h6 {
+        font-size: 18px;
+        margin: 0
+    }
+
+    a.navbar-brand {
+        max-width: 90px;
+        padding: 10px
+    }
+
+    .desktop_menu {
+        display: none
+    }
+
+    .work_page .mobile_device2 {
+        display: block
+    }
+
+    .work_testify h2 {
+        font-size: 36px
+    }
+
+    .our_projects.section {
+        padding-top: 30px
+    }
+
+    ul.custom-navbar:before {
+        display: none
+    }
+
+    div#collapsibleNavbar a {
+        font-size: 13px
+    }
+
+    li.nav-item {
+        margin: 0 5px
+    }
+
+    li.nav-item.project_button {
+        padding: 0 8px
+    }
+
+    .diary_box_left {
+        padding: 10px 10px 10px 10px
+    }
+
+    .full_image img {
+        min-height: 205px !important
+    }
+
+    .diary_box_left p,
+    .little_tag_content p,
+    .our_Diary .our_Diary_date p {
+        font-size: 15px
+    }
+
+    .business_help .diary_box_left {
+        padding: 0;
+        padding-left: 18px
+    }
+
+    .col-md-6.business_help .full_image img {
+        min-height: 204px !important
+    }
+
+    .aap_banner-content p {
+        display: none
+    }
+
+    .imgAppBanner {
+        margin-top: 0
+    }
+
+    .appBanner {
+        margin-top: 85px
+    }
+
+    .digital5.mobile-view .col-md-3 {
+        display: block;
+        margin-bottom: 70px;
+        margin-top: 45px;
+        max-width: 100%;
+        flex: inherit
+    }
+
+    .project_images.section .more_testimonials ul li {
+        float: left;
+        width: 50%
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .col-md-4.col-sm-12 .app_text:last-child {
+        min-height: auto
+    }
+
+    .app_text {
+        min-height: 380px
+    }
+
+    .sticky_menu {
+        top: 73px;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .hybirdImage_box {
+        min-height: auto;
+        line-height: initial;
+        padding-top: 50px
+    }
+
+    .new_media li.nav-item {
+        display: block;
+        width: 100%;
+        border-right: 1px solid #ddd;
+        border-bottom: 0
+    }
+
+    .experience_box {
+        left: 0;
+        transform: translate(0, -50%);
+        max-width: 100%;
+        bottom: inherit;
+        z-index: 9;
+        padding: 20px;
+        top: 130%
+    }
+
+    .experience_box h6,
+    .experience_box p {
+        display: none
+    }
+
+    .heading1 {
+        top: 50%
+    }
+
+    .red_box {
+        float: left;
+        width: 100%;
+        padding: 50px 40px;
+        height: inherit
+    }
+
+    .red_box.green_box img {
+        max-width: 280px
+    }
+
+    .red_box.green_box {
+        min-height: 440px
+    }
+
+    .red_box.yellow_box img {
+        max-width: 230px
+    }
+
+    .red_box.black_box img {
+        max-width: 145px
+    }
+
+    .seo_img {
+        position: absolute;
+        bottom: -81px;
+        left: -94px;
+        right: 0;
+        width: 100%;
+        overflow: hidden;
+        width: 122%
+    }
+
+    .compaining h3 {
+        margin: 0;
+        padding-bottom: 40px;
+        font-size: 30px;
+        color: #2b4456;
+        font-weight: 700;
+        text-align: center
+    }
+
+    .corporate_video.digitalSlider.section {
+        background: #fff5f1;
+        padding-bottom: 120px;
+        padding-top: 0
+    }
+
+    .roohAfza.section {
+        background: 0 0;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        background-repeat: no-repeat;
+        height: inherit;
+        padding: 0
+    }
+
+    .img-campain {
+        display: block
+    }
+
+    .interactive.paid_marketing.sem-panel1.section {
+        margin-top: 55px;
+        padding-top: 30px;
+        padding-bottom: 290px
+    }
+
+    .sticky_menu {
+        top: 73px;
+        margin: 0;
+    }
+
+    .custom-navbar li img {
+        height: 20px;
+        width: 20px;
+    }
+
+    .custom-navbar li {
+        margin-right: 15px;
+        padding: 5px 0;
+    }
+}
+
+@media screen and (max-height:450px) {
+    .sidenav {
+        padding-top: 15px
+    }
+
+    .sidenav a {
+        font-size: 18px
+    }
+}
+
+@media only screen and (max-width:375px) {
+    .design_devlopment.end-to-endterprise-app2.section .custom_web_text h4 {
+        font-size: 17px;
+        font-weight: 700;
+        color: #191919;
+        padding-right: 20px
+    }
+
+    .seo_img {
+        position: absolute;
+        bottom: -81px;
+        left: -94px;
+        right: 0;
+        width: 100%;
+        overflow: hidden;
+        width: 125%
+    }
+
+    .digital_marketing.section {
+        height: auto;
+        margin-top: 55px;
+        padding-bottom: 245px
+    }
+
+    .green-bg-smm h2 {
+        font-size: 16px
+    }
+
+    .interactive.paid_marketing.sem-panel1.section {
+        margin-top: 55px;
+        padding-top: 30px;
+        padding-bottom: 190px
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .red_box {
+        padding: 50px 24px;
+        height: inherit
+    }
+
+    .red_box.contant_black_box p {
+        font-size: 24px;
+        line-height: 32px
+    }
+
+    .service-col label.css-label span {
+        display: inline-block;
+        font-size: 12px;
+        color: #333;
+        vertical-align: top;
+        cursor: pointer
+    }
+
+    .yellow_box a.btn {
+        font-size: 11px;
+        display: inline-block;
+        margin: 30px auto
+    }
+
+    .agency_box li h3 {
+        font-size: 40px
+    }
+
+    body .tab-content ul.agency_box li {
+        padding: 20px;
+        width: 50%
+    }
+
+    .video_inside h1 {
+        color: #fff;
+        font-size: 44px;
+        line-height: 47px;
+        margin-bottom: 35px;
+        padding: 30px
+    }
+
+    .start-project a {
+        color: #fff;
+        text-decoration: none;
+        padding: 15px 3px
+    }
+
+    .adm-popup.menuopened1 h2 {
+        color: #2b4456;
+        font-size: 22px;
+        padding-right: 50px;
+        margin-bottom: 25px
+    }
+
+    .agency_box li p {
+        padding: 0;
+        font-size: 12px;
+        font-weight: 300
+    }
+
+    ul.nav.nav-pills.navtop li {
+        margin: 0
+    }
+
+    .banner-content-ecommerce h2:after {
+        position: absolute;
+        bottom: 0;
+        right: 70px;
+        content: "";
+        width: 74px;
+        height: 3px;
+        background: #fff;
+        margin: auto;
+        left: inherit
+    }
+
+    .our_project.desktop_Project.section.web_desgin_mobile p {
+        font-size: 11px
+    }
+
+    .our_project.desktop_Project.section.web_desgin_mobile h3 {
+        font-size: 45px
+    }
+
+    .design_devlopment.section {
+        padding-bottom: 110px;
+        padding-top: 20px
+    }
+
+    .maintence_boxes {
+        display: flex;
+        width: 100%;
+        padding: 0 15px;
+        margin-bottom: 30px
+    }
+
+    .banner.stratgey-bg.section .banner-content-ecommerce h1 {
+        position: static;
+        bottom: 0;
+        font-size: 20px;
+        line-height: 32px;
+        padding: 10px 16px 25px;
+        margin-bottom: 0
+    }
+
+    .digital-content-panel h3 {
+        color: #2b4456;
+        font-size: 21px;
+        line-height: 26px
+    }
+
+    .why-digital-stratgey h2 {
+        font-size: 30px;
+        font-weight: 600
+    }
+
+    .digital-content1 h3 {
+        font-size: 30px;
+        color: #2b4456;
+        line-height: 32px
+    }
+
+    .or {
+        display: inline-block;
+        position: relative;
+        margin: 0 0
+    }
+
+    .work_page2 h2 {
+        padding: 0
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .custom_web_text h4 {
+        font-size: 16px
+    }
+
+    .design_devlopment.end-to-endterprise-app2.section .custom_web_text h4 {
+        font-size: 18px;
+        font-weight: 700;
+        color: #191919;
+        padding-right: 0
+    }
+
+    .interactive.paid_marketing.sem-panel1.section {
+        padding-bottom: 150px
+    }
+
+    .lead_base_boxes li {
+        width: 43%;
+        margin: 9px;
+        padding: 20px
+    }
+
+    .work_testify h2 {
+        font-size: 28px;
+        padding: 0
+    }
+
+    .adm-popup.menuopened1 a.close_icon {
+        right: 24px;
+        position: absolute;
+        top: 83px
+    }
+}
